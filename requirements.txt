@@ -1,0 +1,36 @@
+# Core Web Framework
+streamlit>=1.28.0
+
+# Data Processing and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Financial Data APIs
+yfinance>=0.2.18
+
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Natural Language Processing
+textblob>=0.17.1
+
+# Data Visualization
+plotly>=5.15.0
+matplotlib>=3.7.0
+
+# PDF Generation and Reporting
+reportlab>=4.0.4
+kaleido>=0.2.1
+
+# Excel Export
+openpyxl>=3.1.0
+
+# Web Scraping and News
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+feedparser>=6.0.10
+trafilatura>=1.6.0
+
+# Timezone Handling
+pytz>=2023.3
