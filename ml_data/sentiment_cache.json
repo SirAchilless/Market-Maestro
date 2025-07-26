@@ -1,0 +1,622 @@
+{
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "timestamp": "2025-07-26T16:47:18.694514",
+    "sentiment_score": 53.13,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Reliance Industries shares tumble: Why the conglomerate stock dropped 3% despite reporting record profit - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxNc2JBREZmdGhtWEtkNjY3N2FfQ1RGOEs0eW1QYWxWQUwyS2d2X3NEdjRGbVpGemhTV2VDM2NBcTlESzhBMzRUNHlCWWR5YW9vM1JPZlp3MkVuaGprMzNVb1BZU3hZbXI5NlJhaEhuRGV0ZU1zU3RkOHBBSk5hYTc1dDdseVRkb1Jmay1OTDR1MjhXNUdmSUNXU2VwYUZUNHZGTC0yNUwtRXpraE5DbUxyamhMSlJORElBcllHYmlwRU1aYmV1SXhKdWItLUVnUDNrYlhTSktGT1dHZE9JalFqc1A4TDZqWGd3OUlEQXpjOE85THZ4QkhBMlZGSnNDOWVpNkZxVS1sbi1hZVBBTVpwc2Q2aEFZVUM5ZzBpZXh0bTl4Q1dU0gGqAkFVX3lxTE1rcjdxNE54REVrczhoRjdKRkxKRmJUYUM5b3pXY1VrdG9aaEM3WmhOTTYzV2JDempoWnFyS2hyN1ZmU3A4YngyWlAtOXlJWDNJZXVZXzkxdjIyYUlKbG1tTUxySWNVakVFcWJmS19BT1dqQVdIbjR4QVdKZ3NvSm9odWpWVGVDaEJ4Zjk0UVRVQ1hnM0NhbThlX1hGZExlQnVVWDJSRG95aDlFSFFpYWJ5MXpvTzJ1cFoyUzYxaTV3Wmlhb3dYOUVISDJ3OHdXcmFubGlnR3lIb2FRWkoxTG56TVNDUWxrQWM0VEdaenEyLWhUUUZxS2RaR3FPTUJxSl9VTHVZU00tWE9QblpTQ0U1c1BjajZ5UVRWTkFNWVlsaUpfTEJvWm1yenc?oc=5\" target=\"_blank\">Reliance Industries shares tumble: Why the conglomerate stock dropped 3% despite reporting record profit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNc2JBREZmdGhtWEtkNjY3N2FfQ1RGOEs0eW1QYWxWQUwyS2d2X3NEdjRGbVpGemhTV2VDM2NBcTlESzhBMzRUNHlCWWR5YW9vM1JPZlp3MkVuaGprMzNVb1BZU3hZbXI5NlJhaEhuRGV0ZU1zU3RkOHBBSk5hYTc1dDdseVRkb1Jmay1OTDR1MjhXNUdmSUNXU2VwYUZUNHZGTC0yNUwtRXpraE5DbUxyamhMSlJORElBcllHYmlwRU1aYmV1SXhKdWItLUVnUDNrYlhTSktGT1dHZE9JalFqc1A4TDZqWGd3OUlEQXpjOE85THZ4QkhBMlZGSnNDOWVpNkZxVS1sbi1hZVBBTVpwc2Q2aEFZVUM5ZzBpZXh0bTl4Q1dU0gGqAkFVX3lxTE1rcjdxNE54REVrczhoRjdKRkxKRmJUYUM5b3pXY1VrdG9aaEM3WmhOTTYzV2JDempoWnFyS2hyN1ZmU3A4YngyWlAtOXlJWDNJZXVZXzkxdjIyYUlKbG1tTUxySWNVakVFcWJmS19BT1dqQVdIbjR4QVdKZ3NvSm9odWpWVGVDaEJ4Zjk0UVRVQ1hnM0NhbThlX1hGZExlQnVVWDJSRG95aDlFSFFpYWJ5MXpvTzJ1cFoyUzYxaTV3Wmlhb3dYOUVISDJ3OHdXcmFubGlnR3lIb2FRWkoxTG56TVNDUWxrQWM0VEdaenEyLWhUUUZxS2RaR3FPTUJxSl9VTHVZU00tWE9QblpTQ0U1c1BjajZ5UVRWTkFNWVlsaUpfTEJvWm1yenc?oc=5",
+        "published": "Mon, 21 Jul 2025 10:39:00 GMT",
+        "source": "Times of India"
+      },
+      {
+        "title": "Reliance Industries share price target at Rs 1,300 or Rs 1,767? What brokerages predict - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc0hibnh6QUlZckVDZEJDYm9FWFZ4eWZyTUhDMjc5bXpaTER1RVVtRk96aVpKQXVZZEkxSnVmc042djBGRlc1cVg4X0xDMHoxenlYQjBKaklHVEpwZ1ZqS0IyR2JOb3YtQ0lpbDdKZUtLVG1hdi04WG1SM2J0dkhrekdIWlBQWW9nZlRyaUpsY0FhRmx0MkxBODNOcDgxdHd5Y2JRRDhGS2xVV2ZmQTlsQm1WLU8tYklTWmpzTllObFM4dWw4UXNfZVBfXzlNbjFicVNQVWFvaEI3NnNMaF9HZmFJR200dDJaWUM0QmtHNNIB9AFBVV95cUxQZjc4Y3QxSS1rWDQyN0M5NUhOc0tpYUVJTnJ4ODJ6b2lveGZJYUhxanhCNEtycUUzcFNRckJZaXREaTVyTTQzTk81c3prMkFyYjJhRVdoX3VlRmZBRWEzTWVxMXpna3h3NGpnWjhVTnJuWjRpUk9DN2hTdTZkci1tYkVvY0dXeTk5al8xelM0eTBuQ3htWm5qQndXeHJ6VXZjbXdEUGJZUzZ5VjdRWFdKYTN3VWhKbHBsTmxsSHg4aEdNNlNybjdhYUpPWE1GdjV5eDZUazRCNG9uR3ZVQjJRTnZMdHlWWklyY3pSd1llZnhGRVlt?oc=5\" target=\"_blank\">Reliance Industries share price target at Rs 1,300 or Rs 1,767? What brokerages predict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc0hibnh6QUlZckVDZEJDYm9FWFZ4eWZyTUhDMjc5bXpaTER1RVVtRk96aVpKQXVZZEkxSnVmc042djBGRlc1cVg4X0xDMHoxenlYQjBKaklHVEpwZ1ZqS0IyR2JOb3YtQ0lpbDdKZUtLVG1hdi04WG1SM2J0dkhrekdIWlBQWW9nZlRyaUpsY0FhRmx0MkxBODNOcDgxdHd5Y2JRRDhGS2xVV2ZmQTlsQm1WLU8tYklTWmpzTllObFM4dWw4UXNfZVBfXzlNbjFicVNQVWFvaEI3NnNMaF9HZmFJR200dDJaWUM0QmtHNNIB9AFBVV95cUxQZjc4Y3QxSS1rWDQyN0M5NUhOc0tpYUVJTnJ4ODJ6b2lveGZJYUhxanhCNEtycUUzcFNRckJZaXREaTVyTTQzTk81c3prMkFyYjJhRVdoX3VlRmZBRWEzTWVxMXpna3h3NGpnWjhVTnJuWjRpUk9DN2hTdTZkci1tYkVvY0dXeTk5al8xelM0eTBuQ3htWm5qQndXeHJ6VXZjbXdEUGJZUzZ5VjdRWFdKYTN3VWhKbHBsTmxsSHg4aEdNNlNybjdhYUpPWE1GdjV5eDZUazRCNG9uR3ZVQjJRTnZMdHlWWklyY3pSd1llZnhGRVlt?oc=5",
+        "published": "Mon, 21 Jul 2025 10:53:52 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "India's stock benchmarks end flat as Reliance, trade jitters offset Eternal gains - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1BJTk9zdVlVaXRyTGhzSjFoYlgwNWdQV3FzN0ExSnQybFhCT19SX2c0SU1NbWo4SWFJdTFELUpTdjA0TlUybTBFR1NqMnlDS00tSWZWdXVjVHlZZ05BM0tveTZtd0VjbUpLd1F4T2JDYkhHLVJnQUdGbm5sMjFCSkViUHA5V1pqQW1QSTE0V0JJNVFmOC10MUd0OXJUZDVEM0kySm5iRGF0THNod0gyQ2lPZzZqNXJKTktCRVlWb0NRUQ?oc=5\" target=\"_blank\">India's stock benchmarks end flat as Reliance, trade jitters offset Eternal gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1BJTk9zdVlVaXRyTGhzSjFoYlgwNWdQV3FzN0ExSnQybFhCT19SX2c0SU1NbWo4SWFJdTFELUpTdjA0TlUybTBFR1NqMnlDS00tSWZWdXVjVHlZZ05BM0tveTZtd0VjbUpLd1F4T2JDYkhHLVJnQUdGbm5sMjFCSkViUHA5V1pqQW1QSTE0V0JJNVFmOC10MUd0OXJUZDVEM0kySm5iRGF0THNod0gyQ2lPZzZqNXJKTktCRVlWb0NRUQ?oc=5",
+        "published": "Tue, 22 Jul 2025 10:19:48 GMT",
+        "source": "Reuters"
+      }
+    ]
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "timestamp": "2025-07-26T16:47:18.683777",
+    "sentiment_score": 55.23,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Astronomical 39,900% return! NSDL IPO becomes multibagger money machine for NSE, SBI, HDFC Bank - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT094RHJHR3E5R01jempGaE4zVjhiVWxrRURSc2JnQ09PSjlwbVZ4X1dxUmlZQmJYYVhCOEJQZ3I5azBOQ2ZGTlBIS3JEaURGZi1QRjRRYnNoQ2JORmxaS2xEWnB3UmpfZFNCaHFQd2c3NGxJcDg3bzQ3eVVBUnJNMFdYSGxXVjJENHYwekl0VHBha2JVVDhCaC1BRUpvLTJxRURfVTFmR3ZfVU5NMFhCX2xjVWY3T3RuajRfakg5cVZ2c3Z1bDhMb1MwRkJxMmtFM3phdEIyV1VRdXU1NmN2cFRsUWlQRDFacHQySFVQMG5tT2U10gH6AUFVX3lxTE5LQWwtV1hVUkdNNUpmOFlRMGNkcm1LMy00VHowTjF4bzFyUWR0M3o1eV9zeWdhTDZqZzFMcjNfZ1N1OXlQTTRmTnlnU0tBVWhnMG55LVdJYmVSYXhGWGxGSHl4TDNmVUtIMVRkWDlidGR0QzZ4d0hvMmRxQklWY1ZrQTZDS0NfZGZKY3ltYUhQVk9iUW03VXBtR29JZnBXWGxNekN5UzRtMm9uV3cyY18yUlFSaE0zSWV2M2tudVkwei1idGJSSzlSS2FRVExVM2ZJYU92ZUJXekFRbUlDSVZka3VWVElNZkNqWlFsVklpWl9reU1LNDRrOGc?oc=5\" target=\"_blank\">Astronomical 39,900% return! NSDL IPO becomes multibagger money machine for NSE, SBI, HDFC Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT094RHJHR3E5R01jempGaE4zVjhiVWxrRURSc2JnQ09PSjlwbVZ4X1dxUmlZQmJYYVhCOEJQZ3I5azBOQ2ZGTlBIS3JEaURGZi1QRjRRYnNoQ2JORmxaS2xEWnB3UmpfZFNCaHFQd2c3NGxJcDg3bzQ3eVVBUnJNMFdYSGxXVjJENHYwekl0VHBha2JVVDhCaC1BRUpvLTJxRURfVTFmR3ZfVU5NMFhCX2xjVWY3T3RuajRfakg5cVZ2c3Z1bDhMb1MwRkJxMmtFM3phdEIyV1VRdXU1NmN2cFRsUWlQRDFacHQySFVQMG5tT2U10gH6AUFVX3lxTE5LQWwtV1hVUkdNNUpmOFlRMGNkcm1LMy00VHowTjF4bzFyUWR0M3o1eV9zeWdhTDZqZzFMcjNfZ1N1OXlQTTRmTnlnU0tBVWhnMG55LVdJYmVSYXhGWGxGSHl4TDNmVUtIMVRkWDlidGR0QzZ4d0hvMmRxQklWY1ZrQTZDS0NfZGZKY3ltYUhQVk9iUW03VXBtR29JZnBXWGxNekN5UzRtMm9uV3cyY18yUlFSaE0zSWV2M2tudVkwei1idGJSSzlSS2FRVExVM2ZJYU92ZUJXekFRbUlDSVZka3VWVElNZkNqWlFsVklpWl9reU1LNDRrOGc?oc=5",
+        "published": "Sat, 26 Jul 2025 04:08:56 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHVleDV5dFBkcHV3UFlvVDZPT0Y1ckI0SjlEc2Yya2VOSVc5dzVPRWtPUXBQTlZnTzE1RlFxcE9RNHJ3azFEeXh3aXVrQ2ZZWmo3emJTZmxUdGpLUTUzejNqOFJOalhFaXFBbUJqRC1ZX3lSNUdWenJHU2FNNUZwYUc1QnZidzRnRVlieDBILUNQcWh4d253akY0d2dFQlYzb2Y3R2NBQTFHeC1ITldmbWFmc0MxY1JKMDNLUEJTbHg4QQ?oc=5\" target=\"_blank\">HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHVleDV5dFBkcHV3UFlvVDZPT0Y1ckI0SjlEc2Yya2VOSVc5dzVPRWtPUXBQTlZnTzE1RlFxcE9RNHJ3azFEeXh3aXVrQ2ZZWmo3emJTZmxUdGpLUTUzejNqOFJOalhFaXFBbUJqRC1ZX3lSNUdWenJHU2FNNUZwYUc1QnZidzRnRVlieDBILUNQcWh4d253akY0d2dFQlYzb2Y3R2NBQTFHeC1ITldmbWFmc0MxY1JKMDNLUEJTbHg4QQ?oc=5",
+        "published": "Mon, 21 Jul 2025 10:09:08 GMT",
+        "source": "Reuters"
+      },
+      {
+        "title": "HDFC Bank first-ever 1:1 bonus issue: Bank announces Rs 5 special dividend; here\u2019s what it means for inve - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOWlZGdm8zVHloTXZvMy0wZXdKNzV6QVgwRjZGSUdMRGZjSEd3Zlp2a1VaZWNaYm5CUy1HZEd6RTNzemtlX2dwdjQ4TUdmOVNUUDZFVzk5Q0R5M2dVQmJ6U2FZTzAyYVBuQmhlQkFwWHh0U3cyQjJXN3hkSEtNTi14U3YtRHlMQ0JVVVJrOXM3NGZaRkRLaS1TNExkU0U4aV8xV2lmSDlUZE1IalNkRVdKTjk1WUxGVHV6MVgzNTlSU0JaRFBVLXNBdFdfalhYVWtXbkNzY295RUU0UDZsNXpjYVgzZjJQbUlTU3FqamRMRG1wV1I1ZWZ5VFhuaXY2MFdwV2FvaEI0ZElleWUwYkhCQW85eXV4ZDBlT3o2WtIBogJBVV95cUxNOWU1VmZRUjNpdDZ0XzhIRDU2LXJIX3BHNEdkYThKMDRjYnhiTHExQ0t5eXplN3pQWFZWTVpULWJrbzRweTZUeFp4WU1ZRXdRMlg2TUZNN2ZMMl9nWmtQUk9vVkU4cFNJUGtuNnctel9XUmI2bjhIWUNRMW93N0JzeEJUSzF1Rnl0MmRLU1Vod2drZ1hyOVNzeFc3ZlhuZjZRQ3YtNGt5Vm12TWVVRXgyVHZvTlo2R1dsZDYtRDAzQklheDB5Mld6QUNWNXNMQVROYk01VHNKSEpabHNvYlFpaXhYQjNtU3lFbktLb3ltNE1ZS1hSNEZrb0FmdmVhUHpXcFlNR19GbVd6VG8wN0NqVzlOaTFEUGJ3RzlpUndySWRRUQ?oc=5\" target=\"_blank\">HDFC Bank first-ever 1:1 bonus issue: Bank announces Rs 5 special dividend; here\u2019s what it means for inve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWlZGdm8zVHloTXZvMy0wZXdKNzV6QVgwRjZGSUdMRGZjSEd3Zlp2a1VaZWNaYm5CUy1HZEd6RTNzemtlX2dwdjQ4TUdmOVNUUDZFVzk5Q0R5M2dVQmJ6U2FZTzAyYVBuQmhlQkFwWHh0U3cyQjJXN3hkSEtNTi14U3YtRHlMQ0JVVVJrOXM3NGZaRkRLaS1TNExkU0U4aV8xV2lmSDlUZE1IalNkRVdKTjk1WUxGVHV6MVgzNTlSU0JaRFBVLXNBdFdfalhYVWtXbkNzY295RUU0UDZsNXpjYVgzZjJQbUlTU3FqamRMRG1wV1I1ZWZ5VFhuaXY2MFdwV2FvaEI0ZElleWUwYkhCQW85eXV4ZDBlT3o2WtIBogJBVV95cUxNOWU1VmZRUjNpdDZ0XzhIRDU2LXJIX3BHNEdkYThKMDRjYnhiTHExQ0t5eXplN3pQWFZWTVpULWJrbzRweTZUeFp4WU1ZRXdRMlg2TUZNN2ZMMl9nWmtQUk9vVkU4cFNJUGtuNnctel9XUmI2bjhIWUNRMW93N0JzeEJUSzF1Rnl0MmRLU1Vod2drZ1hyOVNzeFc3ZlhuZjZRQ3YtNGt5Vm12TWVVRXgyVHZvTlo2R1dsZDYtRDAzQklheDB5Mld6QUNWNXNMQVROYk01VHNKSEpabHNvYlFpaXhYQjNtU3lFbktLb3ltNE1ZS1hSNEZrb0FmdmVhUHpXcFlNR19GbVd6VG8wN0NqVzlOaTFEUGJ3RzlpUndySWRRUQ?oc=5",
+        "published": "Mon, 21 Jul 2025 02:58:00 GMT",
+        "source": "Times of India"
+      }
+    ]
+  },
+  "TCS": {
+    "symbol": "TCS",
+    "timestamp": "2025-07-26T16:47:18.672742",
+    "sentiment_score": 46.47,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Tata Consultancy Services share price falls 1.03% in today's session - Moneycontrol",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOckF1US1MRzA5YXRGdEo0dFdVWGEzVEdzdjVDdUZpTG5VZ2RjSVhnYXNFODRUN2JLSXFweUdpUEJzdExxZ3ZOWDVGVl9uLWo0cmJDV3Fyb1ZwWW9ITENBbldCcXRnWDBwaTZiOUM2TXd1UmhPSm16RHFUV0FNRVhQWTF3X2hXN1VESjNOM1pza3RJQllQTEVKMVVZOFN6b082NWpldFB1T2lhN01QOEVVTEJUVk5yN1pRRERUcjV3aXI4WDNqUHRIalI0ZGtkNTBwTmF5NTRmNi15Sk1fcWfSAeMBQVVfeXFMTTQxRGR0SWluYnJHVXRnd0xwMUZ2NUVBazZ1cWI1b1NORTJSZHNxU2pPT1RMaUVYNkMyamowYjFFbEpUNjFvdVU2SHVWSmRackJFd2lJVmJKLVdabkJHMEd0Vmw2WGNPLXVDcFVqc0h6RWZ3a2tRQi10M1pYOUVxZzVuYno5RmoxT2s1RUViNWk1RV9oSHlaYkZCN2lOREZhY0dNTmJFMVZDSUY4RkRyTWNFS1hoRTRVN0FRbmZqUDdWYm1VS0hIRmQ3RTFoajNGQkh3UGZDOGtaV1UzTW5oZHZYaWc?oc=5\" target=\"_blank\">Tata Consultancy Services share price falls 1.03% in today's session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOckF1US1MRzA5YXRGdEo0dFdVWGEzVEdzdjVDdUZpTG5VZ2RjSVhnYXNFODRUN2JLSXFweUdpUEJzdExxZ3ZOWDVGVl9uLWo0cmJDV3Fyb1ZwWW9ITENBbldCcXRnWDBwaTZiOUM2TXd1UmhPSm16RHFUV0FNRVhQWTF3X2hXN1VESjNOM1pza3RJQllQTEVKMVVZOFN6b082NWpldFB1T2lhN01QOEVVTEJUVk5yN1pRRERUcjV3aXI4WDNqUHRIalI0ZGtkNTBwTmF5NTRmNi15Sk1fcWfSAeMBQVVfeXFMTTQxRGR0SWluYnJHVXRnd0xwMUZ2NUVBazZ1cWI1b1NORTJSZHNxU2pPT1RMaUVYNkMyamowYjFFbEpUNjFvdVU2SHVWSmRackJFd2lJVmJKLVdabkJHMEd0Vmw2WGNPLXVDcFVqc0h6RWZ3a2tRQi10M1pYOUVxZzVuYno5RmoxT2s1RUViNWk1RV9oSHlaYkZCN2lOREZhY0dNTmJFMVZDSUY4RkRyTWNFS1hoRTRVN0FRbmZqUDdWYm1VS0hIRmQ3RTFoajNGQkh3UGZDOGtaV1UzTW5oZHZYaWc?oc=5",
+        "published": "Mon, 21 Jul 2025 08:22:50 GMT",
+        "source": "Moneycontrol"
+      },
+      {
+        "title": "TCS Stock Set for Worst Performance Since 2008 After $43 Billion Wipeout - Bloomberg",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDlxMUxrUW9lTEVDT3BNVTdsQU43Zk43c010V3gxWTB1VXFZQVVtcmhHZVJuT214SkRVUVZRUFBOSzJ5T2xtNVV0TS04UGZWWFJvVHVSQ1oxTDlZek1aSFRMWFdnYmtGSlRqNnJaMlZaTm9oQ25BVkdLM1RSek9Bb0pBbWxrTW56U3plVHZuSC1DX2NTVWZ4NmNUb3NCRWxOSHdGZVFLYmhPX3ZERVFxYzBR?oc=5\" target=\"_blank\">TCS Stock Set for Worst Performance Since 2008 After $43 Billion Wipeout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDlxMUxrUW9lTEVDT3BNVTdsQU43Zk43c010V3gxWTB1VXFZQVVtcmhHZVJuT214SkRVUVZRUFBOSzJ5T2xtNVV0TS04UGZWWFJvVHVSQ1oxTDlZek1aSFRMWFdnYmtGSlRqNnJaMlZaTm9oQ25BVkdLM1RSek9Bb0pBbWxrTW56U3plVHZuSC1DX2NTVWZ4NmNUb3NCRWxOSHdGZVFLYmhPX3ZERVFxYzBR?oc=5",
+        "published": "Thu, 24 Jul 2025 02:54:00 GMT",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Infosys vs TCS vs HCL Tech vs Wipro: Which IT stock to buy today post-Q1 results 2025? EXPLAINED - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWHhranVPMGl3YnY3dFRBZm41RWRubE84S1IwcmhaNVNuWE9iWk05RW5uRVlCSHJoeEhOQl9tcTBORHZkcUl4RXl5RGFuT0doV0M1WW5mdWVuQWRuNFdCUjM0a2sxWWc2U1YtYzhJWXRJWmdDczBZS1NMRVlKNlAzOEM1eC1UTXp6YjQ4UGloUXJqY2owa01qMnI3MUx0VHJkMXhrRExmQmxPd3NRM2FPYVBjS1ZCRGtWNFlwUnZ2RmppQThiYmJWQllSaDM5UXM1UUFHNzNld2xKZUpaX1NNY2tXSV9rekZfMjRoMi1yM0gxYTNPQ0Vr0gH8AUFVX3lxTE1qZ0lWM2NFV1NhaEtvU0IySFhlR1R6U3NVUlR6Sk1VdmFzOHBfemI2M0dpNGd4OGVQYXVYc2NVRzRXNDBVYWNfNzlBejNEc1ZfekFsbXUxYVVrcHpFSVRDUlNubEx1VXJRMTkwU1FDMGljVmttSHRISUY3a0FqNVBvdENSb0pGS3Q2dWNIRFJzRnNBXzJBbGRpNUJnRk5aenJFU2tla2lhckt0bFBZbGMyNFFIZV94aW1zY2pMTlYyWVdROThUeEtwMXR5ajVZaEl5c3R0T04xcUR4bjRYelE4WEl0ZE5KTmJZeUtURWtQTk50ejl0SzZSQ2tLMQ?oc=5\" target=\"_blank\">Infosys vs TCS vs HCL Tech vs Wipro: Which IT stock to buy today post-Q1 results 2025? EXPLAINED</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWHhranVPMGl3YnY3dFRBZm41RWRubE84S1IwcmhaNVNuWE9iWk05RW5uRVlCSHJoeEhOQl9tcTBORHZkcUl4RXl5RGFuT0doV0M1WW5mdWVuQWRuNFdCUjM0a2sxWWc2U1YtYzhJWXRJWmdDczBZS1NMRVlKNlAzOEM1eC1UTXp6YjQ4UGloUXJqY2owa01qMnI3MUx0VHJkMXhrRExmQmxPd3NRM2FPYVBjS1ZCRGtWNFlwUnZ2RmppQThiYmJWQllSaDM5UXM1UUFHNzNld2xKZUpaX1NNY2tXSV9rekZfMjRoMi1yM0gxYTNPQ0Vr0gH8AUFVX3lxTE1qZ0lWM2NFV1NhaEtvU0IySFhlR1R6U3NVUlR6Sk1VdmFzOHBfemI2M0dpNGd4OGVQYXVYc2NVRzRXNDBVYWNfNzlBejNEc1ZfekFsbXUxYVVrcHpFSVRDUlNubEx1VXJRMTkwU1FDMGljVmttSHRISUY3a0FqNVBvdENSb0pGS3Q2dWNIRFJzRnNBXzJBbGRpNUJnRk5aenJFU2tla2lhckt0bFBZbGMyNFFIZV94aW1zY2pMTlYyWVdROThUeEtwMXR5ajVZaEl5c3R0T04xcUR4bjRYelE4WEl0ZE5KTmJZeUtURWtQTk50ejl0SzZSQ2tLMQ?oc=5",
+        "published": "Thu, 24 Jul 2025 04:03:24 GMT",
+        "source": "Mint"
+      }
+    ]
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "timestamp": "2025-07-26T16:47:18.693086",
+    "sentiment_score": 55.46,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Is Bharti Airtel Limited's (NSE:BHARTIARTL) Latest Stock Performance A Reflection Of Its Financial Health? - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHlCUWhNeGlLT3VjSGtkQmt3ODhfVVZ2UnZneGxYZ0habUFrUW5aaGR3WU0wRXBuYktodl9CdXoyR2hvQzhXaWJJeHdiYXpFNE41SW11VGhWVlNueEdvd1ljUURkMjBMRUtJMEFPMEpjek5GTEY2RHVZcjg5c2lmMTAtZldfM2dUWm9LcDNmaTVwNXFKaXhmTzVJYUx0NUpSN08wWHhlOTNHeUNXX2txRTd0ZTdFUzJDMlZYOXhMd2kwNnJVU1BkZ210ZDdNSndoNU55TXBtWnjSAd4BQVVfeXFMTXBkcjNsQnFoS3A0ZkI4SHRxam9zeUNYdlBRNXV3ekl3bkNOaTBPWVFQNEFnYjRhNUQ3WXNCdnFyYXE1RUpHMnV2LV9uUTFoQ0dYRGpCTlFwbzFBUFZpVEt0ZHY2dHhLY25RTU9iQnBZT1RSTDdTWENTMlM3Mjk0c3FLUWUxc0stRl9JMGx1ZlRTcXI5cDBtQVRoUU8wSGJvWnlBNGZrU3o1ZlBsS1ZhTkZ4aS1SaXlLbUtvRHlFTEdFVGJ4ZTRKS25Oc2g3R3dqWjdYVlhjLWhaT0xuWUdB?oc=5\" target=\"_blank\">Is Bharti Airtel Limited's (NSE:BHARTIARTL) Latest Stock Performance A Reflection Of Its Financial Health?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHlCUWhNeGlLT3VjSGtkQmt3ODhfVVZ2UnZneGxYZ0habUFrUW5aaGR3WU0wRXBuYktodl9CdXoyR2hvQzhXaWJJeHdiYXpFNE41SW11VGhWVlNueEdvd1ljUURkMjBMRUtJMEFPMEpjek5GTEY2RHVZcjg5c2lmMTAtZldfM2dUWm9LcDNmaTVwNXFKaXhmTzVJYUx0NUpSN08wWHhlOTNHeUNXX2txRTd0ZTdFUzJDMlZYOXhMd2kwNnJVU1BkZ210ZDdNSndoNU55TXBtWnjSAd4BQVVfeXFMTXBkcjNsQnFoS3A0ZkI4SHRxam9zeUNYdlBRNXV3ekl3bkNOaTBPWVFQNEFnYjRhNUQ3WXNCdnFyYXE1RUpHMnV2LV9uUTFoQ0dYRGpCTlFwbzFBUFZpVEt0ZHY2dHhLY25RTU9iQnBZT1RSTDdTWENTMlM3Mjk0c3FLUWUxc0stRl9JMGx1ZlRTcXI5cDBtQVRoUU8wSGJvWnlBNGZrU3o1ZlBsS1ZhTkZ4aS1SaXlLbUtvRHlFTEdFVGJ4ZTRKS25Oc2g3R3dqWjdYVlhjLWhaT0xuWUdB?oc=5",
+        "published": "Tue, 22 Apr 2025 07:00:00 GMT",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Bharti Airtel falls 3% on large block deal, logs Rs 15,000 crore turnover on NSE - Business Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1RDVzFwRzBmS01BR2k5bU5wU3ZsOEw3a0RZQ05KRDhXYlViM0MzS2hPeGFBZmZFcEtOa3JXbDhsMHFVVmtGRkxtbE8tZjhNTnZuQkFvdlVpMmxMV0ZOenZ0aFhSZG9nTWs3WU42WXBRU0twU0tLSTJyaWNDQlkxeGxXdG51OV9HX0xVMXNoR2dkMlh4X0pVelFnTUwyNnpvMGJvQnU2NnFXd2otamNCaWI1ejJSc2Rtc05OdW5aTW9NSkJGbWJPSnNJOVM1M1ZpanBhSmZZeUw0M3VfUHfSAeMBQVVfeXFMTllMZ3BDaXNzZjd5SjhZNDhXMExOLTZhV1cxTmZXYi1lczJPbWw1WlBEMkNKazhDdFppeWpOcmpPWnZSWVdLaDVqMFQ3WmlQdk9lNkVCZkRzdWl4cUwtanZpWG9NSGROMmhxeUxPbGV6d01YMHowUDNNazZ0bkkybnRfZlJrcWdBNVRDUEZ5TTg4NnlIM3pheElNeTZqenRycVpfd3NGNmNsR0JBdzZaVmpmVk5nanZkYnVQTC1teVExaXpyTGJONXUzdE9BZFdKT1F6VHhNLXh4OFVtS2plRDdnNE0?oc=5\" target=\"_blank\">Bharti Airtel falls 3% on large block deal, logs Rs 15,000 crore turnover on NSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1RDVzFwRzBmS01BR2k5bU5wU3ZsOEw3a0RZQ05KRDhXYlViM0MzS2hPeGFBZmZFcEtOa3JXbDhsMHFVVmtGRkxtbE8tZjhNTnZuQkFvdlVpMmxMV0ZOenZ0aFhSZG9nTWs3WU42WXBRU0twU0tLSTJyaWNDQlkxeGxXdG51OV9HX0xVMXNoR2dkMlh4X0pVelFnTUwyNnpvMGJvQnU2NnFXd2otamNCaWI1ejJSc2Rtc05OdW5aTW9NSkJGbWJPSnNJOVM1M1ZpanBhSmZZeUw0M3VfUHfSAeMBQVVfeXFMTllMZ3BDaXNzZjd5SjhZNDhXMExOLTZhV1cxTmZXYi1lczJPbWw1WlBEMkNKazhDdFppeWpOcmpPWnZSWVdLaDVqMFQ3WmlQdk9lNkVCZkRzdWl4cUwtanZpWG9NSGROMmhxeUxPbGV6d01YMHowUDNNazZ0bkkybnRfZlJrcWdBNVRDUEZ5TTg4NnlIM3pheElNeTZqenRycVpfd3NGNmNsR0JBdzZaVmpmVk5nanZkYnVQTC1teVExaXpyTGJONXUzdE9BZFdKT1F6VHhNLXh4OFVtS2plRDdnNE0?oc=5",
+        "published": "Fri, 16 May 2025 07:00:00 GMT",
+        "source": "Business Today"
+      },
+      {
+        "title": "Telecom stocks in focus: Vodafone India shares gain, Bharti Airtel slips post Trai March data - Upstox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTJsbUtfMERYUkpJQnBPd1I2QlVvdGx3Vk9PcVdjck1HbnlIdENnb3lhUEN2MlpoZGRyWWtBRTJUNldwM2x5VFpKRmRtUWtnS3hwWEVEOHg3RGpVT2lUQ0ZzeWhmdUJ3UjA3bWxlLWtCaTE1SHNJNmNLSmc1SG1jYjBDejlsYXRIMEhVcnp1a0RieGxTRjhOMGx3d1l6bjd1NDVNeGJQQ1VncmdUMWgwNjNaMExVRUxPd0hsaEJESTAwTWp2UnpsOVRsTFVEMFhTRWt1aXpfV3NzLUJreFk0QVR2Rmc?oc=5\" target=\"_blank\">Telecom stocks in focus: Vodafone India shares gain, Bharti Airtel slips post Trai March data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTJsbUtfMERYUkpJQnBPd1I2QlVvdGx3Vk9PcVdjck1HbnlIdENnb3lhUEN2MlpoZGRyWWtBRTJUNldwM2x5VFpKRmRtUWtnS3hwWEVEOHg3RGpVT2lUQ0ZzeWhmdUJ3UjA3bWxlLWtCaTE1SHNJNmNLSmc1SG1jYjBDejlsYXRIMEhVcnp1a0RieGxTRjhOMGx3d1l6bjd1NDVNeGJQQ1VncmdUMWgwNjNaMExVRUxPd0hsaEJESTAwTWp2UnpsOVRsTFVEMFhTRWt1aXpfV3NzLUJreFk0QVR2Rmc?oc=5",
+        "published": "Thu, 08 May 2025 07:00:00 GMT",
+        "source": "Upstox"
+      }
+    ]
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "timestamp": "2025-07-26T16:47:18.699890",
+    "sentiment_score": 55.26,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHVleDV5dFBkcHV3UFlvVDZPT0Y1ckI0SjlEc2Yya2VOSVc5dzVPRWtPUXBQTlZnTzE1RlFxcE9RNHJ3azFEeXh3aXVrQ2ZZWmo3emJTZmxUdGpLUTUzejNqOFJOalhFaXFBbUJqRC1ZX3lSNUdWenJHU2FNNUZwYUc1QnZidzRnRVlieDBILUNQcWh4d253akY0d2dFQlYzb2Y3R2NBQTFHeC1ITldmbWFmc0MxY1JKMDNLUEJTbHg4QQ?oc=5\" target=\"_blank\">HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHVleDV5dFBkcHV3UFlvVDZPT0Y1ckI0SjlEc2Yya2VOSVc5dzVPRWtPUXBQTlZnTzE1RlFxcE9RNHJ3azFEeXh3aXVrQ2ZZWmo3emJTZmxUdGpLUTUzejNqOFJOalhFaXFBbUJqRC1ZX3lSNUdWenJHU2FNNUZwYUc1QnZidzRnRVlieDBILUNQcWh4d253akY0d2dFQlYzb2Y3R2NBQTFHeC1ITldmbWFmc0MxY1JKMDNLUEJTbHg4QQ?oc=5",
+        "published": "Mon, 21 Jul 2025 10:09:08 GMT",
+        "source": "Reuters"
+      },
+      {
+        "title": "ICICI Bank shares hit all-time high of Rs 1,500 on NSE - Moneycontrol",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPajhCQjlXOVFaeWZSTzFGdEt3RjhqdURxaUE5djE3UmNyYXdERi1vWWw3NmMzaVBhX0xjUzVxUHlKQnNaQW8zOXVnaElwRFBFOUxaMFVVOXNHSFdFenZZa0ZDbjFtcmJJQ0pQQl8xRnZKVm9iYzRJd0xiOXk4eXAtQWFHMFJDalliai1zZk9uZ1lodmRIRFhkYVRnSWNUWmJrcTRibVdKaEdDaGt1TlNab0tmQ1JNSkpRMjhRRmk1dTBhSmhLb3M0bDV6VXY?oc=5\" target=\"_blank\">ICICI Bank shares hit all-time high of Rs 1,500 on NSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajhCQjlXOVFaeWZSTzFGdEt3RjhqdURxaUE5djE3UmNyYXdERi1vWWw3NmMzaVBhX0xjUzVxUHlKQnNaQW8zOXVnaElwRFBFOUxaMFVVOXNHSFdFenZZa0ZDbjFtcmJJQ0pQQl8xRnZKVm9iYzRJd0xiOXk4eXAtQWFHMFJDalliai1zZk9uZ1lodmRIRFhkYVRnSWNUWmJrcTRibVdKaEdDaGt1TlNab0tmQ1JNSkpRMjhRRmk1dTBhSmhLb3M0bDV6VXY?oc=5",
+        "published": "Fri, 25 Jul 2025 03:55:30 GMT",
+        "source": "Moneycontrol"
+      },
+      {
+        "title": "ICICI Bank Q1 FY26 results: Shares rise over 2.5%; as firm posts 15.9% net profit for June quarter - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQWFRhZ0syYTdPVWhtaHpPb0RhWU5aYmk0cXhTOHB5dExLSjg1Y2FDTEgySTEzUE1jbjdOcFR6TGRHOFNuNTZMdmxfUGVna3V0YklScjdYaG5TV0VDcHo5bGZWLW5iZmJIekVZXzZZWENUaFZjQnEwZUNGTnlUVUhQbzdVQnREM29NcmNHaG5qcFRheXJSZ3YzQTRVZWh2RlN3QzBweWVvQzZVaGJDT3VZTkRFaE1wTmswbGtjaDR2VlZUb29rM3hrOVFpcGVFVDduUWtoTGE1M21wVWxzYmY0b0pXOUl0eEJSLUxRamt0bXV6RzNWdHF6dVhXdnJJSVZhWmk1ZEVDcVBJUkIwOUHSAZMCQVVfeXFMUDhBdG5ZTjdFS0tXWmhOcWotX1FGcDBwU0FERUh0LTIzakN2VlZyXzRJZm9CNzBuQ2h4dkRBQ1JTVFZvbUsyekt2WnFIQkpqR2NqOXNhNmRaNjZsOE9IWEVxUEgySkJ1RUhYRFNJNzlDOS1zWk1KUnluSzdVbURxMEhBcm5PbEQtUmU5ak1vMjJlR0U0RS1RanpYM2EyZWRYaWlWcmlXQk9sN1FMb3hNVXNPWGdtYW9nb2F6elk0a2stYlE4QV8tLUlrTXZuU2xzSFZITm9hWmR6dkZZRHFpbVZCZzZseTFtd1pJMlFmNWVtbzBEX2VVTTAyOThDX1ZnZUpnZzZ4cVVJaGVGUzQtVS1lZWs?oc=5\" target=\"_blank\">ICICI Bank Q1 FY26 results: Shares rise over 2.5%; as firm posts 15.9% net profit for June quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWFRhZ0syYTdPVWhtaHpPb0RhWU5aYmk0cXhTOHB5dExLSjg1Y2FDTEgySTEzUE1jbjdOcFR6TGRHOFNuNTZMdmxfUGVna3V0YklScjdYaG5TV0VDcHo5bGZWLW5iZmJIekVZXzZZWENUaFZjQnEwZUNGTnlUVUhQbzdVQnREM29NcmNHaG5qcFRheXJSZ3YzQTRVZWh2RlN3QzBweWVvQzZVaGJDT3VZTkRFaE1wTmswbGtjaDR2VlZUb29rM3hrOVFpcGVFVDduUWtoTGE1M21wVWxzYmY0b0pXOUl0eEJSLUxRamt0bXV6RzNWdHF6dVhXdnJJSVZhWmk1ZEVDcVBJUkIwOUHSAZMCQVVfeXFMUDhBdG5ZTjdFS0tXWmhOcWotX1FGcDBwU0FERUh0LTIzakN2VlZyXzRJZm9CNzBuQ2h4dkRBQ1JTVFZvbUsyekt2WnFIQkpqR2NqOXNhNmRaNjZsOE9IWEVxUEgySkJ1RUhYRFNJNzlDOS1zWk1KUnluSzdVbURxMEhBcm5PbEQtUmU5ak1vMjJlR0U0RS1RanpYM2EyZWRYaWlWcmlXQk9sN1FMb3hNVXNPWGdtYW9nb2F6elk0a2stYlE4QV8tLUlrTXZuU2xzSFZITm9hWmR6dkZZRHFpbVZCZzZseTFtd1pJMlFmNWVtbzBEX2VVTTAyOThDX1ZnZUpnZzZ4cVVJaGVGUzQtVS1lZWs?oc=5",
+        "published": "Mon, 21 Jul 2025 05:15:00 GMT",
+        "source": "Times of India"
+      }
+    ]
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "timestamp": "2025-07-26T16:47:23.717104",
+    "sentiment_score": 55.46,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Stocks to Watch, July 24: BEML, Infosys, Nestle India, Mphasis, Trident, Tilaknagar Industries, IEX, Cyient, and more - Upstox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcVlUMkp2SlNtQjJSRXJWd0xYRjU3RWRyY1lMeHhrY1F3ak1qOXhRaExiMXBXb296N3VBYV90OUs2QnZiSTRjQThXRjVXUzJFcVVtc0didTdLOUFQM0gxR3ZEZnBBbUhGVm5TbHByRXdpcXlTdERtLXpVbXVlVVhyVkJWbXlWbF9fdWgwN0RXNm9ySjNPaGVtbl8za3k1dF9GZnhJUl9MbXlUMjRwODZabWp4ODlKeXpPZ0RvdG5YWFRXcUJRMTRHM1RGcWg2SnZSVW9hdnZCUzk3aFI0WHBBMnVUcHVkdGdSLVoxZnlqVE1KX1U5WjFGMFBn?oc=5\" target=\"_blank\">Stocks to Watch, July 24: BEML, Infosys, Nestle India, Mphasis, Trident, Tilaknagar Industries, IEX, Cyient, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcVlUMkp2SlNtQjJSRXJWd0xYRjU3RWRyY1lMeHhrY1F3ak1qOXhRaExiMXBXb296N3VBYV90OUs2QnZiSTRjQThXRjVXUzJFcVVtc0didTdLOUFQM0gxR3ZEZnBBbUhGVm5TbHByRXdpcXlTdERtLXpVbXVlVVhyVkJWbXlWbF9fdWgwN0RXNm9ySjNPaGVtbl8za3k1dF9GZnhJUl9MbXlUMjRwODZabWp4ODlKeXpPZ0RvdG5YWFRXcUJRMTRHM1RGcWg2SnZSVW9hdnZCUzk3aFI0WHBBMnVUcHVkdGdSLVoxZnlqVE1KX1U5WjFGMFBn?oc=5",
+        "published": "Thu, 24 Jul 2025 02:39:33 GMT",
+        "source": "Upstox"
+      },
+      {
+        "title": "Infosys shares in focus: Should you buy, sell or hold IT major's stock after Q4 results? EXPLAINED - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYldJZ21EQ2x1X1Nid1BBMXlxT2dYTm51R21iWF9QYy1HakpUTGU2dHdoM1J0RlNxcmcwVFhHRGNPbEZGZ085OEwyTEJIV1JTMGtXVWNndVFncGFhM0VUYlctd2JBNTFWa2VNSWxCdWE3YVNMRlVNUW1hWEVsTVBFR0w5UGFZZkJsVDlPNGRQZnJMdWFTZXB4SEZ4ZE1lODJuT25ieDYtVnRTdVRXb3V0WnUtMW9FNjhUYXc2MTZ4TEdDX3ZWVEVuYzl0REZlWWh4MVNsTXN4V3o2X25EZ3R2NFJiTlJlcmpWUGxtYTV4UFpVOE9qVEww0gH8AUFVX3lxTE44dzkxTFVod2dRU0pJZTVfT21sVjFmd182clhzYVlRVThRNHBfdmc2YlIyRkwwWTRPRkFrYTZ5ZmcxX3Y2dHdpY1pLMDEtbGt0aks1NzBPalFJd3hOeTRIcC10U1VKR3kwd2JjNFpZNHJjQWtSaEpjWFZ3SEJsQVlTZ3F6SExrMHZoR0stWEJWMm9OckdoR3pFQ2VqcGZIekpNTzdTMUVPT01IbmU0b1VwRVZKdVdzWTlBYVBWOC1sM3I0cmhscEd0S2dqUFg3Tlc5bGljTklsX2V2MEJwbWRINXN2dUs1RzJaWVREdHBMdTR1bmhEZ0pwc0lrZQ?oc=5\" target=\"_blank\">Infosys shares in focus: Should you buy, sell or hold IT major's stock after Q4 results? EXPLAINED</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYldJZ21EQ2x1X1Nid1BBMXlxT2dYTm51R21iWF9QYy1HakpUTGU2dHdoM1J0RlNxcmcwVFhHRGNPbEZGZ085OEwyTEJIV1JTMGtXVWNndVFncGFhM0VUYlctd2JBNTFWa2VNSWxCdWE3YVNMRlVNUW1hWEVsTVBFR0w5UGFZZkJsVDlPNGRQZnJMdWFTZXB4SEZ4ZE1lODJuT25ieDYtVnRTdVRXb3V0WnUtMW9FNjhUYXc2MTZ4TEdDX3ZWVEVuYzl0REZlWWh4MVNsTXN4V3o2X25EZ3R2NFJiTlJlcmpWUGxtYTV4UFpVOE9qVEww0gH8AUFVX3lxTE44dzkxTFVod2dRU0pJZTVfT21sVjFmd182clhzYVlRVThRNHBfdmc2YlIyRkwwWTRPRkFrYTZ5ZmcxX3Y2dHdpY1pLMDEtbGt0aks1NzBPalFJd3hOeTRIcC10U1VKR3kwd2JjNFpZNHJjQWtSaEpjWFZ3SEJsQVlTZ3F6SExrMHZoR0stWEJWMm9OckdoR3pFQ2VqcGZIekpNTzdTMUVPT01IbmU0b1VwRVZKdVdzWTlBYVBWOC1sM3I0cmhscEd0S2dqUFg3Tlc5bGljTklsX2V2MEJwbWRINXN2dUs1RzJaWVREdHBMdTR1bmhEZ0pwc0lrZQ?oc=5",
+        "published": "Thu, 17 Apr 2025 07:00:00 GMT",
+        "source": "Mint"
+      },
+      {
+        "title": "Infosys shares fall 3% after Morgan Stanley downgrades, cuts target price - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaVBCOHM5OXBSTlJpTFdLVlRHQmR5WlBYSHYtOUd2OW82dkRfai1IN1B3TUpUQnJESjZuZS1IT0x2M3QxQkpnQnFTS2plelZqYzJvdG5fUDY3YWJpZEplLW5rU3Q5YXJ1SU1NU3hBX3VoMWtOc09PaHVoU2VmbzZ4OVNfTnVaU0VzZVU1Y0t5ZDR6ekYxYWRNcFE3aVV0RVFsY190VlN5LWFUYkNlcVJ1TzVIaTE4WjNkdjNpTDZZeTY3ekVfUjZyLWtJR3F0UWNVNG81ekloMzF1VGQ3WWfSAeMBQVVfeXFMTmNrUFpGd2F2VHh3cDAxSVJlUU02ckhuU1FJeXpZUVA4R1ZLWGFUME5zQk5hRl9LbHZkUzgwSEpOYXdmMTI5MG80R2haajQzMmhZV2g3WUphZXhSWmV5MGkxUll4V1FSLVZTNmZVSnl3WlA2T0dpRGlJZ0ozZzRXYmFlZUkwcUFPbFhwR0hsbnNHM0ZSM19GaGVoNU5OOEFuYkFFMzlHSGlHazRQbzJvZ29lU0pGTXZzVDlsenJlR1hWYWgwSGFzNTFiTUJjNDhDS2hqTl9CRG1hNHAwZGtJN3lheWs?oc=5\" target=\"_blank\">Infosys shares fall 3% after Morgan Stanley downgrades, cuts target price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaVBCOHM5OXBSTlJpTFdLVlRHQmR5WlBYSHYtOUd2OW82dkRfai1IN1B3TUpUQnJESjZuZS1IT0x2M3QxQkpnQnFTS2plelZqYzJvdG5fUDY3YWJpZEplLW5rU3Q5YXJ1SU1NU3hBX3VoMWtOc09PaHVoU2VmbzZ4OVNfTnVaU0VzZVU1Y0t5ZDR6ekYxYWRNcFE3aVV0RVFsY190VlN5LWFUYkNlcVJ1TzVIaTE4WjNkdjNpTDZZeTY3ekVfUjZyLWtJR3F0UWNVNG81ekloMzF1VGQ3WWfSAeMBQVVfeXFMTmNrUFpGd2F2VHh3cDAxSVJlUU02ckhuU1FJeXpZUVA4R1ZLWGFUME5zQk5hRl9LbHZkUzgwSEpOYXdmMTI5MG80R2haajQzMmhZV2g3WUphZXhSWmV5MGkxUll4V1FSLVZTNmZVSnl3WlA2T0dpRGlJZ0ozZzRXYmFlZUkwcUFPbFhwR0hsbnNHM0ZSM19GaGVoNU5OOEFuYkFFMzlHSGlHazRQbzJvZ29lU0pGTXZzVDlsenJlR1hWYWgwSGFzNTFiTUJjNDhDS2hqTl9CRG1hNHAwZGtJN3lheWs?oc=5",
+        "published": "Wed, 12 Mar 2025 07:00:00 GMT",
+        "source": "The Economic Times"
+      }
+    ]
+  },
+  "LICI": {
+    "symbol": "LICI",
+    "timestamp": "2025-07-26T16:47:23.718218",
+    "sentiment_score": 55.47,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Life Insurance Corporation of India (LICI) Gets Regulatory Approval - Free Stock Index Interpretation - PrintWeekIndia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTNJUk9Td1BzNHhJVHdwUUFPV3NqVzFhcjRXNHpmTWpiX3RRNXExY0MxY0N5UG92RkNycWJVczJKMG9ZZkhMMVlFbWpSNUEyYzZiWXVXaDlOSklsVDY2cHJ0UktrV0RNbzdJLWo2MzF1bDBrQTVVZTRsWmxCNDJxR1d3VDFXRmttTlAxaDhEUDIwdDB6YVJnNEp2R3RGZEM3Z012MjhES2RTMW8?oc=5\" target=\"_blank\">Life Insurance Corporation of India (LICI) Gets Regulatory Approval - Free Stock Index Interpretation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PrintWeekIndia</font>",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTNJUk9Td1BzNHhJVHdwUUFPV3NqVzFhcjRXNHpmTWpiX3RRNXExY0MxY0N5UG92RkNycWJVczJKMG9ZZkhMMVlFbWpSNUEyYzZiWXVXaDlOSklsVDY2cHJ0UktrV0RNbzdJLWo2MzF1bDBrQTVVZTRsWmxCNDJxR1d3VDFXRmttTlAxaDhEUDIwdDB6YVJnNEp2R3RGZEM3Z012MjhES2RTMW8?oc=5",
+        "published": "Fri, 25 Jul 2025 16:30:49 GMT",
+        "source": "PrintWeekIndia"
+      },
+      {
+        "title": "Would You Accumulate or Wait on Life Insurance Corporation of India (LICI) - Free Risk Assessment Services - Autocar Professional",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnJNZy1oZjNRVUVuQ08zQi1lVERvejdXUm5SSjZSdGFsOFRTUWtSRGFoRTFoRUozSlNBSFNSdkUwck11blhGeF9NcnZSTWU5cDRqd24zZDZiVklwS3lDVHdfeENZRlZmNmMyZ1l4VHhpRXk2d1pyY0k4bjFwMDhzWUVOdFFtakZ6enY5dHAxY0M0X0dzejdDeGQycHFUaGxaa1Z3M1lWS0t1WWRBSzI1OUd4U3hRZw?oc=5\" target=\"_blank\">Would You Accumulate or Wait on Life Insurance Corporation of India (LICI) - Free Risk Assessment Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autocar Professional</font>",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnJNZy1oZjNRVUVuQ08zQi1lVERvejdXUm5SSjZSdGFsOFRTUWtSRGFoRTFoRUozSlNBSFNSdkUwck11blhGeF9NcnZSTWU5cDRqd24zZDZiVklwS3lDVHdfeENZRlZmNmMyZ1l4VHhpRXk2d1pyY0k4bjFwMDhzWUVOdFFtakZ6enY5dHAxY0M0X0dzejdDeGQycHFUaGxaa1Z3M1lWS0t1WWRBSzI1OUd4U3hRZw?oc=5",
+        "published": "Wed, 23 Jul 2025 17:43:27 GMT",
+        "source": "Autocar Professional"
+      },
+      {
+        "title": "Life Insurance Corporation of India (LICI) Gets Regulatory Approval - Triple-digit returns - jammulinksnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkVNYUxseWNuMlc2TmgzTjJzMU1MSWdlRGNIOU9ZbloyZThzRXpxWVB3V3o3TFBFT1VqeFYtVHJhd3NtNnA2akNVSmlaMGJfOUhRd2YzZ0tycktRZE9ERUQzYVdxQkJFLVp6aFZfYTI2RjIzTXEzdVlSMmxTMHJBNzI2WlI4ZTJqeHBDQ0NCWktQYlRrM1ZmZThKdEVtaW1icmdTekNNSWR2RjBWeWdhSGpaaw?oc=5\" target=\"_blank\">Life Insurance Corporation of India (LICI) Gets Regulatory Approval - Triple-digit returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jammulinksnews.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkVNYUxseWNuMlc2TmgzTjJzMU1MSWdlRGNIOU9ZbloyZThzRXpxWVB3V3o3TFBFT1VqeFYtVHJhd3NtNnA2akNVSmlaMGJfOUhRd2YzZ0tycktRZE9ERUQzYVdxQkJFLVp6aFZfYTI2RjIzTXEzdVlSMmxTMHJBNzI2WlI4ZTJqeHBDQ0NCWktQYlRrM1ZmZThKdEVtaW1icmdTekNNSWR2RjBWeWdhSGpaaw?oc=5",
+        "published": "Thu, 24 Jul 2025 04:37:59 GMT",
+        "source": "jammulinksnews.com"
+      }
+    ]
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "timestamp": "2025-07-26T16:47:23.718011",
+    "sentiment_score": 56.37,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "State Bank of India (SBIN) Stock Experiences Sudden Dip - Breakthrough financial growth - Autocar Professional",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQURGeGlqbG5iMzVQV214bWRGX01xRHFMcUduUFE5X3cwdmJOd2lya2Z5eDMxRWx5c3dXWS1zZ2xVRHgwVHFfbG1GSElYQmdfN05DSE1nUDlmNnRwTkowNWdQMlA5bUlmczFxazZsUjctcVhDUnA1eXE0WmQ4cDdQZU5ycVo1MHBDdkNoQldlWW5zOTlTSWhRVThUUW8?oc=5\" target=\"_blank\">State Bank of India (SBIN) Stock Experiences Sudden Dip - Breakthrough financial growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autocar Professional</font>",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQURGeGlqbG5iMzVQV214bWRGX01xRHFMcUduUFE5X3cwdmJOd2lya2Z5eDMxRWx5c3dXWS1zZ2xVRHgwVHFfbG1GSElYQmdfN05DSE1nUDlmNnRwTkowNWdQMlA5bUlmczFxazZsUjctcVhDUnA1eXE0WmQ4cDdQZU5ycVo1MHBDdkNoQldlWW5zOTlTSWhRVThUUW8?oc=5",
+        "published": "Wed, 23 Jul 2025 06:25:06 GMT",
+        "source": "Autocar Professional"
+      },
+      {
+        "title": "State Bank of India (SBIN) Hits 52 Week High - Free Buy/Sell Signal Notifications - jammulinksnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2tJbkxWVmllM2FpR0UzYnowNU85aU9MYll1ZlozVGg5YlhkYktjc3Jka214d2RJV0NQX05BZlhKc2ttaTdlUWZtNG9BZnJORkVsd3I5SVdjTjM3eHFLODQwdFpGQ21BN1d6VGlCX3JyMXphdjZrSXBEX1A2NWMwVjA3eVRIUTJJZEZaNWNubkFrUzZW?oc=5\" target=\"_blank\">State Bank of India (SBIN) Hits 52 Week High - Free Buy/Sell Signal Notifications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jammulinksnews.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2tJbkxWVmllM2FpR0UzYnowNU85aU9MYll1ZlozVGg5YlhkYktjc3Jka214d2RJV0NQX05BZlhKc2ttaTdlUWZtNG9BZnJORkVsd3I5SVdjTjM3eHFLODQwdFpGQ21BN1d6VGlCX3JyMXphdjZrSXBEX1A2NWMwVjA3eVRIUTJJZEZaNWNubkFrUzZW?oc=5",
+        "published": "Wed, 23 Jul 2025 00:24:09 GMT",
+        "source": "jammulinksnews.com"
+      },
+      {
+        "title": "State Bank of India (SBIN) Hits 52 Week High - Explosive returns - PrintWeekIndia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkhfWTZtSGg1M1NuZlJfY1pMdVdBdnBqcjI3QjU5eGZPaXljd0h6aExzZ2VZM0FNWG1QUzRSbDVKLWJCdmVXdzQ3c3NHc1YxRFZOb1lsUHV4aV9Lc2pQOTQ2RGRndkhxVWFnV2xGR2xSQmRVbWJSVTlqTFRDVDZmQURpejBiQ0g3UWxxdjJubW4?oc=5\" target=\"_blank\">State Bank of India (SBIN) Hits 52 Week High - Explosive returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PrintWeekIndia</font>",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkhfWTZtSGg1M1NuZlJfY1pMdVdBdnBqcjI3QjU5eGZPaXljd0h6aExzZ2VZM0FNWG1QUzRSbDVKLWJCdmVXdzQ3c3NHc1YxRFZOb1lsUHV4aV9Lc2pQOTQ2RGRndkhxVWFnV2xGR2xSQmRVbWJSVTlqTFRDVDZmQURpejBiQ0g3UWxxdjJubW4?oc=5",
+        "published": "Thu, 24 Jul 2025 21:16:05 GMT",
+        "source": "PrintWeekIndia"
+      }
+    ]
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "timestamp": "2025-07-26T16:47:23.730715",
+    "sentiment_score": 52.09,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "ITC shares trade flat with negative bias in a weak market - Moneycontrol",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelVpTGhBWnU2SE9BbmxwNzZlRmtpekxNOUhPS0VGdndfeVFtbEl2TmFpWmw2NnJvRWNIVjBBZVhzUVNCcUF4NHdJSjRvMTltaTVTNTdzRGt1Q0ZCZnFxSnM3RkZ5X2RWSHJ5OXRKeXdFY2h2dHM2RXFNY2I0YXZsaW90VGZ1c2dLM0RlZG5TR1hwTE9Ha2pOaXRxV0U2VlQ1SjJzbHZyWDM2S1dVcnVfQi0yclFNMWM0ZUlDYTB4UW9EYldkMzhMeVNQdEgyaFBp0gHWAUFVX3lxTFBfUl9faTZUSVlrVmo4OXRQcGtTRzBYSm5TMExKOVVsT2xTT1NBNVFTSFlOcTFjSXRJVjB2b0l0U2p0aG13MFo4TmNfTEg2d2RiYVgxYkZIX1hRZUpQU0hfczZBdHdReVlWV014SXdDMk01Mllya1Y4X1lNbTk0UXM3TXNMcHdBQ08ybU9nWDFWMHBKSmV6N2FHdzdxUW9yd21qNVRVbGJLeWVBNmg4azhfYjlHRkp6YjlDRWdlanlxMDRlbFVxd05aUm9qMUtXb3Y1cmdXU2c?oc=5\" target=\"_blank\">ITC shares trade flat with negative bias in a weak market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelVpTGhBWnU2SE9BbmxwNzZlRmtpekxNOUhPS0VGdndfeVFtbEl2TmFpWmw2NnJvRWNIVjBBZVhzUVNCcUF4NHdJSjRvMTltaTVTNTdzRGt1Q0ZCZnFxSnM3RkZ5X2RWSHJ5OXRKeXdFY2h2dHM2RXFNY2I0YXZsaW90VGZ1c2dLM0RlZG5TR1hwTE9Ha2pOaXRxV0U2VlQ1SjJzbHZyWDM2S1dVcnVfQi0yclFNMWM0ZUlDYTB4UW9EYldkMzhMeVNQdEgyaFBp0gHWAUFVX3lxTFBfUl9faTZUSVlrVmo4OXRQcGtTRzBYSm5TMExKOVVsT2xTT1NBNVFTSFlOcTFjSXRJVjB2b0l0U2p0aG13MFo4TmNfTEg2d2RiYVgxYkZIX1hRZUpQU0hfczZBdHdReVlWV014SXdDMk01Mllya1Y4X1lNbTk0UXM3TXNMcHdBQ08ybU9nWDFWMHBKSmV6N2FHdzdxUW9yd21qNVRVbGJLeWVBNmg4azhfYjlHRkp6YjlDRWdlanlxMDRlbFVxd05aUm9qMUtXb3Y1cmdXU2c?oc=5",
+        "published": "Fri, 25 Jul 2025 05:50:28 GMT",
+        "source": "Moneycontrol"
+      },
+      {
+        "title": "Stocks to Watch on Thursday, July 17: Indian Hotels, NTPC, NLC India, Tech Mahindra, ITC Hotels, HDFC Bank and more - The Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVJNekgzMHpHaUlZQnlsRnhFcWduR0tJQjZSQ3VOM29SUkdveXZxbDBscFA0a0N3bTVKckZPcW8ycllYMlVhaHpxbkFxYVdSbnloeFNZcl9sX2I4cS14cTlTNURVb1ZYcTVNWWpRTlNyWXEtMGNTdGpxY0VycXM5eG1PbU4wVWVuSHpmamNURHFHamYtMkxuVGNlU21XMVBuZVRQazRsU1lxdlBCbU9JZkFtU1gxVTFKU3oxQdIBwwFBVV95cUxNbjhRN0ozTTc0djJlT1Y0MVd2YkYxOVAzSTB3VGotQmFHWXRfR2tJWkt2d0hVSV9xVFU0ZDl1TTU0U3hpM0pvM3JtXzFLY0IzREQ3WGhXMmZBUUVoQ3I3VE5vU181bk5nQ2xSWlFlbDFtQlNZYmRCZFI2eG5UTjNFS0ZVX19TSncwbWtvR2tTeWVSUFo2YmtSWFNqQ2dBMzNleGxxdzMtYUpHajdlaURkQlV0Mmh3T3oxNzFiUmVKTUZJSFE?oc=5\" target=\"_blank\">Stocks to Watch on Thursday, July 17: Indian Hotels, NTPC, NLC India, Tech Mahindra, ITC Hotels, HDFC Bank and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVJNekgzMHpHaUlZQnlsRnhFcWduR0tJQjZSQ3VOM29SUkdveXZxbDBscFA0a0N3bTVKckZPcW8ycllYMlVhaHpxbkFxYVdSbnloeFNZcl9sX2I4cS14cTlTNURVb1ZYcTVNWWpRTlNyWXEtMGNTdGpxY0VycXM5eG1PbU4wVWVuSHpmamNURHFHamYtMkxuVGNlU21XMVBuZVRQazRsU1lxdlBCbU9JZkFtU1gxVTFKU3oxQdIBwwFBVV95cUxNbjhRN0ozTTc0djJlT1Y0MVd2YkYxOVAzSTB3VGotQmFHWXRfR2tJWkt2d0hVSV9xVFU0ZDl1TTU0U3hpM0pvM3JtXzFLY0IzREQ3WGhXMmZBUUVoQ3I3VE5vU181bk5nQ2xSWlFlbDFtQlNZYmRCZFI2eG5UTjNFS0ZVX19TSncwbWtvR2tTeWVSUFo2YmtSWFNqQ2dBMzNleGxxdzMtYUpHajdlaURkQlV0Mmh3T3oxNzFiUmVKTUZJSFE?oc=5",
+        "published": "Wed, 16 Jul 2025 07:00:00 GMT",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "ITC Share Price Highlights: ITC Stock Price History - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOREpFbUllS1FSdzJUTG9zRndWcHBhTlptNVRHbjY5S0NkdTg2anhrTkszWHF1WjRRbkkwTWtpekRzekgtbVhycVh0QUtQaGJXR1AyUHdqQ1lyUE1IemVvU191NzBic0M5dlROWHNJRnJzOTZwdTRaTFdGS003d01DWkxlMVhST081RGZvZVh2ZHpfY3RVRXhuR3pFcjg2d0pRMlFEM3Q2NlZyaWVKa2g3UmZySdIBuAFBVV95cUxNLWVNdlQ2TlBzeHpjRTZmTFpUc2JOUjVMZkk1U1ZHc0FHaXIzaUgxNHRkZHlsLVp2Vk43eGdnS2VqeUw5LTZTSXd4YXV6ZXg1dEcwQUgxXzh2NXhrU1BhYWM4bGNKUDI4NWIzQngxbmN1OUgzZ0QyOTlfbU9PWDBiSkQ1RU9kWGttS3VaNDV6ZTJZd21TWGl5OHB2VEE2Rmxra3hKbkZxRzBINVF6YzRLZGZJYmlMRUxW?oc=5\" target=\"_blank\">ITC Share Price Highlights: ITC Stock Price History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREpFbUllS1FSdzJUTG9zRndWcHBhTlptNVRHbjY5S0NkdTg2anhrTkszWHF1WjRRbkkwTWtpekRzekgtbVhycVh0QUtQaGJXR1AyUHdqQ1lyUE1IemVvU191NzBic0M5dlROWHNJRnJzOTZwdTRaTFdGS003d01DWkxlMVhST081RGZvZVh2ZHpfY3RVRXhuR3pFcjg2d0pRMlFEM3Q2NlZyaWVKa2g3UmZySdIBuAFBVV95cUxNLWVNdlQ2TlBzeHpjRTZmTFpUc2JOUjVMZkk1U1ZHc0FHaXIzaUgxNHRkZHlsLVp2Vk43eGdnS2VqeUw5LTZTSXd4YXV6ZXg1dEcwQUgxXzh2NXhrU1BhYWM4bGNKUDI4NWIzQngxbmN1OUgzZ0QyOTlfbU9PWDBiSkQ1RU9kWGttS3VaNDV6ZTJZd21TWGl5OHB2VEE2Rmxra3hKbkZxRzBINVF6YzRLZGZJYmlMRUxW?oc=5",
+        "published": "Wed, 02 Jul 2025 07:00:00 GMT",
+        "source": "The Economic Times"
+      }
+    ]
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "timestamp": "2025-07-26T16:47:23.732500",
+    "sentiment_score": 53.02,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Indian shares inch lower as IT stocks outweigh HUL gains - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTVsclVVcTQ4eHJ4TUV6TmdRU0wyQ0RTa1ZYVDBuS1l4MGpLV3R3MS1ZWWRabFExemh6dDlBdzJVX1dudjlmRXNhNU5oVzhDTDNLY0tMZXI5SElaNUFxWUZkSm1rZVUyWGs0elJ2eURUeEZXWkl5a1BqODQ1TFNSbHJxQVVTUG1fN2xteXNoRngzX0YxdmE1bGNub0hSbHZXV19KR2hvVXQ1cjlaVU9fUG5mMmRtWldUdFprUkhVaUh2UG5i?oc=5\" target=\"_blank\">Indian shares inch lower as IT stocks outweigh HUL gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTVsclVVcTQ4eHJ4TUV6TmdRU0wyQ0RTa1ZYVDBuS1l4MGpLV3R3MS1ZWWRabFExemh6dDlBdzJVX1dudjlmRXNhNU5oVzhDTDNLY0tMZXI5SElaNUFxWUZkSm1rZVUyWGs0elJ2eURUeEZXWkl5a1BqODQ1TFNSbHJxQVVTUG1fN2xteXNoRngzX0YxdmE1bGNub0hSbHZXV19KR2hvVXQ1cjlaVU9fUG5mMmRtWldUdFprUkhVaUh2UG5i?oc=5",
+        "published": "Thu, 10 Jul 2025 07:00:00 GMT",
+        "source": "TradingView"
+      },
+      {
+        "title": "Investor Optimism Abounds Hindustan Unilever Limited (NSE:HINDUNILVR) But Growth Is Lacking - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOE5jZDJWajFYcVBKbC10S0dFaXN4c3NBNHJqOWJNQ0FuRVozWUU0YTRURl9GYkJEcXVzVFFyVU1yMUotZzdiOWRtbmtoTXZVczVzS1FvNUJNcXlNTEFnUHhfS3dPQnBIajFQcGt2SW5LNGtGX1JPcEFXOXItbG9xOWJya3FNTE13R25halZjWjNmSVRMSGs2emlyZVlrVVdQVTd4STRhbElxamp6Qk02MVRnbTJFVDZia1FCUFR5YzRqdllqdm1yQWlfdkZudHpfcjlyYTNaZmFPalZydDdDQjZn0gHnAUFVX3lxTE1VRXFuRG1LcllkcVpYWV9PVmRfWm5kR0cyNFB2R09sd0hGX2hBTEpGaGIxTkFIQ2R4UEc0Ukt6eVpkOVkwWU9NZTdvdFk0Zmo5YnlQMk1QbDNzUDlNZUdOdlNpVXpaYi04THVEcGlsUXY2SnpnZHRTMHd5UllhM3lBeURxSGJLZDkybzc2M3NjWmNUUWw3bGFaZEJLaFZsZFpscDI0ZThpdmhBSGduLW16M25KSTFhUEtmeGRrdkI3Q0RvZUZRaDI0TThyaWpvbkdiMHdVanZQTFNZd2ZpX2Q1c0Y5ZTU5RQ?oc=5\" target=\"_blank\">Investor Optimism Abounds Hindustan Unilever Limited (NSE:HINDUNILVR) But Growth Is Lacking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOE5jZDJWajFYcVBKbC10S0dFaXN4c3NBNHJqOWJNQ0FuRVozWUU0YTRURl9GYkJEcXVzVFFyVU1yMUotZzdiOWRtbmtoTXZVczVzS1FvNUJNcXlNTEFnUHhfS3dPQnBIajFQcGt2SW5LNGtGX1JPcEFXOXItbG9xOWJya3FNTE13R25halZjWjNmSVRMSGs2emlyZVlrVVdQVTd4STRhbElxamp6Qk02MVRnbTJFVDZia1FCUFR5YzRqdllqdm1yQWlfdkZudHpfcjlyYTNaZmFPalZydDdDQjZn0gHnAUFVX3lxTE1VRXFuRG1LcllkcVpYWV9PVmRfWm5kR0cyNFB2R09sd0hGX2hBTEpGaGIxTkFIQ2R4UEc0Ukt6eVpkOVkwWU9NZTdvdFk0Zmo5YnlQMk1QbDNzUDlNZUdOdlNpVXpaYi04THVEcGlsUXY2SnpnZHRTMHd5UllhM3lBeURxSGJLZDkybzc2M3NjWmNUUWw3bGFaZEJLaFZsZFpscDI0ZThpdmhBSGduLW16M25KSTFhUEtmeGRrdkI3Q0RvZUZRaDI0TThyaWpvbkdiMHdVanZQTFNZd2ZpX2Q1c0Y5ZTU5RQ?oc=5",
+        "published": "Wed, 28 May 2025 07:00:00 GMT",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Rs 24 Payout Alert! India\u2019s Largest FMCG Stock To Go Ex-Dividend Soon, Record Date Next Week; Buy HUL? - Goodreturns",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQTVmVWwyMExacmxyemYtMW13dHBjWnFZRVFHRXI2V0tmWThKS2RUMnB1d196cVU2TGpES3Z2Z1pVMDltamUxZHVJWU0yQXpWX011UUtDZ2djOG02V0RsUVg1WHdCdGdTSVB6eVpLMmNOeFM4NzB5WWJ6c3ozeHZGVmxEWnRBSXJrNGVOY19RdG5SZWpHa2FCM1NIOHZ0cGdlNFp6UUhwZlZFVS1KeWs0aGRmcTcxWEVueUV4dlAyQWJPd1BmZDJzOXIwTkd0RUpQaU9KYW5uSnAwZw?oc=5\" target=\"_blank\">Rs 24 Payout Alert! India\u2019s Largest FMCG Stock To Go Ex-Dividend Soon, Record Date Next Week; Buy HUL?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goodreturns</font>",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQTVmVWwyMExacmxyemYtMW13dHBjWnFZRVFHRXI2V0tmWThKS2RUMnB1d196cVU2TGpES3Z2Z1pVMDltamUxZHVJWU0yQXpWX011UUtDZ2djOG02V0RsUVg1WHdCdGdTSVB6eVpLMmNOeFM4NzB5WWJ6c3ozeHZGVmxEWnRBSXJrNGVOY19RdG5SZWpHa2FCM1NIOHZ0cGdlNFp6UUhwZlZFVS1KeWs0aGRmcTcxWEVueUV4dlAyQWJPd1BmZDJzOXIwTkd0RUpQaU9KYW5uSnAwZw?oc=5",
+        "published": "Fri, 20 Jun 2025 07:00:00 GMT",
+        "source": "Goodreturns"
+      }
+    ]
+  },
+  "LT": {
+    "symbol": "LT",
+    "timestamp": "2025-07-26T16:47:28.742174",
+    "sentiment_score": 54.67,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Top stocks to buy: Stock recommendations for the week starting June 23, 2025 - check list - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVDNQNThVV1FMZjBqU1FVdHZoSEh0a2xIdWIwSzJ4dGNiTllVQzdINjJVRkFpUVB5OVd1a1FIUDRlUGxfTDVpa1NvWE02MzJQS19oMFRBVGg0X2daWjEyRXZHZ2VycG5raENibEFuVWRXd19IRzJhS2s1d2xrRWlnWElXM2NzWlp6STh3VW1FU183OUpmVHRnWjIzRElfMXJCeV84VTJRZXhMV1dVc0k4ZlZtcjhoMk5henFrd2tvamdINVZvMUxoaUpxdWhqSkxPMG9kSW1DOFFRbnByRmlHMGRrdGFvVkJta1JpODduTmhTUXQtOUhHSl9Wb2REUUtFa1l6VGozR3HSAY4CQVVfeXFMTlU0VU1JY3BtYXRvN3Z2dW9JeVNIWTZxY1FpY1NpMG9qNVFVNVpNQXB2VzIyQk5faU9DdXhCVDhrNW5wOXpzMWtRNElRTWZDM2hZUFpwWllqbnN6eGNlU0VYSElhWGJ1WWdjMXYyZS1lcks3ZEk5Mm1uTGlmU2F2d1ZMb0Mzb0gyczhGYzJTc0RJSTVXSlhGYmduanlEcXVNWUhPTTBLVmhidEI1UlpiZG42N0MzUFhpTjNQbXVxUERsbFNlYWJnVTN6MXNWb0hJR1U1VnFpdGNsREl1VjhmVFFacFctUzJLWEczd19Pal96ZHJQMm15M0xITTgzVEZZTTBaQnFWa0pscTJwZFZn?oc=5\" target=\"_blank\">Top stocks to buy: Stock recommendations for the week starting June 23, 2025 - check list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVDNQNThVV1FMZjBqU1FVdHZoSEh0a2xIdWIwSzJ4dGNiTllVQzdINjJVRkFpUVB5OVd1a1FIUDRlUGxfTDVpa1NvWE02MzJQS19oMFRBVGg0X2daWjEyRXZHZ2VycG5raENibEFuVWRXd19IRzJhS2s1d2xrRWlnWElXM2NzWlp6STh3VW1FU183OUpmVHRnWjIzRElfMXJCeV84VTJRZXhMV1dVc0k4ZlZtcjhoMk5henFrd2tvamdINVZvMUxoaUpxdWhqSkxPMG9kSW1DOFFRbnByRmlHMGRrdGFvVkJta1JpODduTmhTUXQtOUhHSl9Wb2REUUtFa1l6VGozR3HSAY4CQVVfeXFMTlU0VU1JY3BtYXRvN3Z2dW9JeVNIWTZxY1FpY1NpMG9qNVFVNVpNQXB2VzIyQk5faU9DdXhCVDhrNW5wOXpzMWtRNElRTWZDM2hZUFpwWllqbnN6eGNlU0VYSElhWGJ1WWdjMXYyZS1lcks3ZEk5Mm1uTGlmU2F2d1ZMb0Mzb0gyczhGYzJTc0RJSTVXSlhGYmduanlEcXVNWUhPTTBLVmhidEI1UlpiZG42N0MzUFhpTjNQbXVxUERsbFNlYWJnVTN6MXNWb0hJR1U1VnFpdGNsREl1VjhmVFFacFctUzJLWEczd19Pal96ZHJQMm15M0xITTgzVEZZTTBaQnFWa0pscTJwZFZn?oc=5",
+        "published": "Mon, 23 Jun 2025 07:00:00 GMT",
+        "source": "Times of India"
+      },
+      {
+        "title": "Stock to watch: LT power transmission and distribution arm wins large orders in India, Saudi Arabia - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRGdXbmZJSTUtNEh0TEZCYUtFTjBfc3VOQUE1aWh3bXJtLUNhcU5iTTF5QUtvaEowQUpqc2pmQzdNb0JTNXRHa2xKMjVoYlpCTEhGandVeGIwdGQzZmdrRE1nRzZoLUVwUHRpdTlYNDF1QUJYbHJnVEJid1JXRVJKazB3eGE4dm5WdVJVa2JyUFlJR3p0ZjJwYURBSGIteUk0RkNpMlVuczk3ZmFuSEZhWThPYVhvNXFqbGJhREx6MjNDNnB4NEJFazRGR0VSd1otTW1iZnJNem5KMGdkX2hUYWoxdjVEVWlwWm5FZXpUZVRublgzZG52VnZfb9IBgAJBVV95cUxNQ1JlcmJ3VTFEQk1mU2s1UVVoWFhYdXlsZWsyNE9nb2ttenA5ZXRpSFFnTVVtLVdLenVlT0VJbXVVbXN3aUcteFpqWVFOTlBKSzBjN29LYkYteUJlMTJ3R1Iwd3hVMU1lWUlvSGhyV2xUZEc3VXRpaWxsNWJxVU92Z3d4UC1tWVc0VE5VREZMMjMtZm9rZHBRNzdVc0l3R3I4cHJnZzM2YnNLYm5lZmVOZjd6UHJqVXd4dXVrVnJaUWhUN1huMk9YZzBXdU15MllZRXJzMWR6T0FBVE93bjI5cGVYNC0wdTdJcEVBS1pobU5ZbWxLOXFOeG9qaElsVDc0?oc=5\" target=\"_blank\">Stock to watch: LT power transmission and distribution arm wins large orders in India, Saudi Arabia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRGdXbmZJSTUtNEh0TEZCYUtFTjBfc3VOQUE1aWh3bXJtLUNhcU5iTTF5QUtvaEowQUpqc2pmQzdNb0JTNXRHa2xKMjVoYlpCTEhGandVeGIwdGQzZmdrRE1nRzZoLUVwUHRpdTlYNDF1QUJYbHJnVEJid1JXRVJKazB3eGE4dm5WdVJVa2JyUFlJR3p0ZjJwYURBSGIteUk0RkNpMlVuczk3ZmFuSEZhWThPYVhvNXFqbGJhREx6MjNDNnB4NEJFazRGR0VSd1otTW1iZnJNem5KMGdkX2hUYWoxdjVEVWlwWm5FZXpUZVRublgzZG52VnZfb9IBgAJBVV95cUxNQ1JlcmJ3VTFEQk1mU2s1UVVoWFhYdXlsZWsyNE9nb2ttenA5ZXRpSFFnTVVtLVdLenVlT0VJbXVVbXN3aUcteFpqWVFOTlBKSzBjN29LYkYteUJlMTJ3R1Iwd3hVMU1lWUlvSGhyV2xUZEc3VXRpaWxsNWJxVU92Z3d4UC1tWVc0VE5VREZMMjMtZm9rZHBRNzdVc0l3R3I4cHJnZzM2YnNLYm5lZmVOZjd6UHJqVXd4dXVrVnJaUWhUN1huMk9YZzBXdU15MllZRXJzMWR6T0FBVE93bjI5cGVYNC0wdTdJcEVBS1pobU5ZbWxLOXFOeG9qaElsVDc0?oc=5",
+        "published": "Tue, 07 Jan 2025 08:00:00 GMT",
+        "source": "Mint"
+      },
+      {
+        "title": "L&T Finance Soars! Opportunity? Reliance Losing Steam: Time to Worry? | Stock In Action - Zee Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1JwYV95MEFnYW5TSFRtVnZfV2JfZDVUaTNtTTl3Z2liTWRLaTBrZDktTy1Jb2p2TzZya29DcmNVeDB6cktvVDRJU05HMFFPTEVOQmI0QWlkOUtNREt4U1k0N2FWX0JjeTJIY2JidVBEc2hPWGNKYTdKLV9rM25FSnA1aGdfQ0VHNFQxUjMzYVBpYU1yOEJHQTFZd0txOG5rLWpXbTRmQlAzbzhCWlpqdzNWTl9rcDk2WURpTlVjZTRuTHV2YW4xRk9vQVpDakFENGfSAdcBQVVfeXFMTVJxRVV6dEc5NkUtSWJBakhweUZpd0EzQ1dVV2VVR1BRd2xSa3VyMnY3NkcxZUFKSU5SZ0FoYXBFZ2RyYV8tTGI0bFY3dTJGNU1peFVHSU5JVUVaMV92QVl2RGlDWmU4NU5ybUhZakJjamhqQWIxTHlaQUVVdWNuS2MxVUlrVmlnQ1RjNWR0UWI2NTNnbUt0ZE9Rb2VGVnBoSWlMcjBMaGd0cWJRT3ZlNU14ek5ybnVwNjE4cTdSNVR4cjIxODA5aUxyZFNzV1JkUUVZbDM5OU0?oc=5\" target=\"_blank\">L&amp;T Finance Soars! Opportunity? Reliance Losing Steam: Time to Worry? | Stock In Action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zee Business</font>",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1JwYV95MEFnYW5TSFRtVnZfV2JfZDVUaTNtTTl3Z2liTWRLaTBrZDktTy1Jb2p2TzZya29DcmNVeDB6cktvVDRJU05HMFFPTEVOQmI0QWlkOUtNREt4U1k0N2FWX0JjeTJIY2JidVBEc2hPWGNKYTdKLV9rM25FSnA1aGdfQ0VHNFQxUjMzYVBpYU1yOEJHQTFZd0txOG5rLWpXbTRmQlAzbzhCWlpqdzNWTl9rcDk2WURpTlVjZTRuTHV2YW4xRk9vQVpDakFENGfSAdcBQVVfeXFMTVJxRVV6dEc5NkUtSWJBakhweUZpd0EzQ1dVV2VVR1BRd2xSa3VyMnY3NkcxZUFKSU5SZ0FoYXBFZ2RyYV8tTGI0bFY3dTJGNU1peFVHSU5JVUVaMV92QVl2RGlDWmU4NU5ybUhZakJjamhqQWIxTHlaQUVVdWNuS2MxVUlrVmlnQ1RjNWR0UWI2NTNnbUt0ZE9Rb2VGVnBoSWlMcjBMaGd0cWJRT3ZlNU14ek5ybnVwNjE4cTdSNVR4cjIxODA5aUxyZFNzV1JkUUVZbDM5OU0?oc=5",
+        "published": "Mon, 21 Jul 2025 10:03:01 GMT",
+        "source": "Zee Business"
+      }
+    ]
+  },
+  "HCLTECH": {
+    "symbol": "HCLTECH",
+    "timestamp": "2025-07-26T16:47:28.769655",
+    "sentiment_score": 51.59,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Infosys vs TCS vs HCL Tech vs Wipro: Which IT stock to buy today post-Q1 results 2025? EXPLAINED - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWHhranVPMGl3YnY3dFRBZm41RWRubE84S1IwcmhaNVNuWE9iWk05RW5uRVlCSHJoeEhOQl9tcTBORHZkcUl4RXl5RGFuT0doV0M1WW5mdWVuQWRuNFdCUjM0a2sxWWc2U1YtYzhJWXRJWmdDczBZS1NMRVlKNlAzOEM1eC1UTXp6YjQ4UGloUXJqY2owa01qMnI3MUx0VHJkMXhrRExmQmxPd3NRM2FPYVBjS1ZCRGtWNFlwUnZ2RmppQThiYmJWQllSaDM5UXM1UUFHNzNld2xKZUpaX1NNY2tXSV9rekZfMjRoMi1yM0gxYTNPQ0Vr0gH8AUFVX3lxTE1qZ0lWM2NFV1NhaEtvU0IySFhlR1R6U3NVUlR6Sk1VdmFzOHBfemI2M0dpNGd4OGVQYXVYc2NVRzRXNDBVYWNfNzlBejNEc1ZfekFsbXUxYVVrcHpFSVRDUlNubEx1VXJRMTkwU1FDMGljVmttSHRISUY3a0FqNVBvdENSb0pGS3Q2dWNIRFJzRnNBXzJBbGRpNUJnRk5aenJFU2tla2lhckt0bFBZbGMyNFFIZV94aW1zY2pMTlYyWVdROThUeEtwMXR5ajVZaEl5c3R0T04xcUR4bjRYelE4WEl0ZE5KTmJZeUtURWtQTk50ejl0SzZSQ2tLMQ?oc=5\" target=\"_blank\">Infosys vs TCS vs HCL Tech vs Wipro: Which IT stock to buy today post-Q1 results 2025? EXPLAINED</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWHhranVPMGl3YnY3dFRBZm41RWRubE84S1IwcmhaNVNuWE9iWk05RW5uRVlCSHJoeEhOQl9tcTBORHZkcUl4RXl5RGFuT0doV0M1WW5mdWVuQWRuNFdCUjM0a2sxWWc2U1YtYzhJWXRJWmdDczBZS1NMRVlKNlAzOEM1eC1UTXp6YjQ4UGloUXJqY2owa01qMnI3MUx0VHJkMXhrRExmQmxPd3NRM2FPYVBjS1ZCRGtWNFlwUnZ2RmppQThiYmJWQllSaDM5UXM1UUFHNzNld2xKZUpaX1NNY2tXSV9rekZfMjRoMi1yM0gxYTNPQ0Vr0gH8AUFVX3lxTE1qZ0lWM2NFV1NhaEtvU0IySFhlR1R6U3NVUlR6Sk1VdmFzOHBfemI2M0dpNGd4OGVQYXVYc2NVRzRXNDBVYWNfNzlBejNEc1ZfekFsbXUxYVVrcHpFSVRDUlNubEx1VXJRMTkwU1FDMGljVmttSHRISUY3a0FqNVBvdENSb0pGS3Q2dWNIRFJzRnNBXzJBbGRpNUJnRk5aenJFU2tla2lhckt0bFBZbGMyNFFIZV94aW1zY2pMTlYyWVdROThUeEtwMXR5ajVZaEl5c3R0T04xcUR4bjRYelE4WEl0ZE5KTmJZeUtURWtQTk50ejl0SzZSQ2tLMQ?oc=5",
+        "published": "Thu, 24 Jul 2025 04:03:24 GMT",
+        "source": "Mint"
+      },
+      {
+        "title": "Explained: Why HCLTech shares are down 4% today - India Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcEJPU1ZVRkRMekNmTk5VZHBjMkJLUDZIeWlxcHZCU0ppU3ZaQ3ZHWjMtcklHbHpmRnFHYjA3anRsVlBBajE5VHZHUDF2emtnYm9pMGVpSVFhVWdja3RVSzJSUnJuYWdRdFZhRmhCZGV4bnF5d2ExTG5uc1NOc192OVp0QXp6RHVDV3RSdTR4V3pXa1daRHNrc3NwNDQtekdjT1Y2dmNZTXpHcmhiWkR6V3ZpXzlCcWxxYjhGbGg2ek1XbGVzdnhNdFlBT2dxcWFuVVMtdjE5RHHSAd4BQVVfeXFMTzVENmludzE5VXR4SXlnNTlUOThXdVoybHJxOXdYdjNvV1FUUG8yOUVmQXBkQ1l4dkdNV1k2QW9GVnlNTHVPZ2xBU0lkVlY2eGlCR0ozeS1NWnQ5NUZvb3l0V0o4UGZjZkV3VHBwV09aRW0tR1FaQU11SEZRb1hBaWdwdkJ5ZDU0MXo5S1FlcmdNNk9mOFdwMy1OMFlCTnRZSi1JQUZWdG1jMlNDNTVJOTQ1amVpZTNhZzJTMWN4NjN2UGhrRV9NWlpzbjEwOXVrQWVsYVppNDE1NTk3a2tB?oc=5\" target=\"_blank\">Explained: Why HCLTech shares are down 4% today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcEJPU1ZVRkRMekNmTk5VZHBjMkJLUDZIeWlxcHZCU0ppU3ZaQ3ZHWjMtcklHbHpmRnFHYjA3anRsVlBBajE5VHZHUDF2emtnYm9pMGVpSVFhVWdja3RVSzJSUnJuYWdRdFZhRmhCZGV4bnF5d2ExTG5uc1NOc192OVp0QXp6RHVDV3RSdTR4V3pXa1daRHNrc3NwNDQtekdjT1Y2dmNZTXpHcmhiWkR6V3ZpXzlCcWxxYjhGbGg2ek1XbGVzdnhNdFlBT2dxcWFuVVMtdjE5RHHSAd4BQVVfeXFMTzVENmludzE5VXR4SXlnNTlUOThXdVoybHJxOXdYdjNvV1FUUG8yOUVmQXBkQ1l4dkdNV1k2QW9GVnlNTHVPZ2xBU0lkVlY2eGlCR0ozeS1NWnQ5NUZvb3l0V0o4UGZjZkV3VHBwV09aRW0tR1FaQU11SEZRb1hBaWdwdkJ5ZDU0MXo5S1FlcmdNNk9mOFdwMy1OMFlCTnRZSi1JQUZWdG1jMlNDNTVJOTQ1amVpZTNhZzJTMWN4NjN2UGhrRV9NWlpzbjEwOXVrQWVsYVppNDE1NTk3a2tB?oc=5",
+        "published": "Tue, 15 Jul 2025 07:00:00 GMT",
+        "source": "India Today"
+      },
+      {
+        "title": "HCL Tech stock slips over 9% after Q3 results. Should you buy, sell or hold? - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT2pOVWFwZ2tRQkZkcEhDcWFsZ1NmLUxZc0xIR0RpSE41NnNldHlVaUtjRUFvTzk2MEY3ZzAyNGZOR0dBbTFTUXFEdU0yd1BCVktnS0QxdEl2dmhmWnlrTjltc3lCME1wbUxIVDQ4LVVOTWhHTExua0ZkbE9hUDF2NXB2bkowdWZRLVFkR1BFZjlYVUIxYXVvUUNVZ1JRdDRScmU1VzJ4MGd4VGU5ek5Bc3RJVVJISGZWNXdSakx5UVVrNHh3d09CaGlURWljWTFQd28tVlFqT05RMUtpa1Aw0gHkAUFVX3lxTFA5ckpuYWtDVmxBd0l6QTVCcHItUWJsVThidDJBa3JyQnk1djZuaTFxekpRYjJRZTQwUTlaSXRsWUp3WG4xWUxYLTBWRTdWN0Fadndvd3BvT0tueU1tTF9pWXUxSC1TWE80TjltRnlObFhHNGl4cHdpWEVtTjJBTldlektBU3prcVlNdGtFN09VWkZlSnp6eU1CaWdmbDdTRlIyTXoyejJWTkRQTDBoWXd4WXhiNXp3cS1GcHdoTEtsSmtYZFpsSEhIX05IcDdqSktJTXhBMFFDMTZvU0ZibEpiM3BNTQ?oc=5\" target=\"_blank\">HCL Tech stock slips over 9% after Q3 results. Should you buy, sell or hold?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT2pOVWFwZ2tRQkZkcEhDcWFsZ1NmLUxZc0xIR0RpSE41NnNldHlVaUtjRUFvTzk2MEY3ZzAyNGZOR0dBbTFTUXFEdU0yd1BCVktnS0QxdEl2dmhmWnlrTjltc3lCME1wbUxIVDQ4LVVOTWhHTExua0ZkbE9hUDF2NXB2bkowdWZRLVFkR1BFZjlYVUIxYXVvUUNVZ1JRdDRScmU1VzJ4MGd4VGU5ek5Bc3RJVVJISGZWNXdSakx5UVVrNHh3d09CaGlURWljWTFQd28tVlFqT05RMUtpa1Aw0gHkAUFVX3lxTFA5ckpuYWtDVmxBd0l6QTVCcHItUWJsVThidDJBa3JyQnk1djZuaTFxekpRYjJRZTQwUTlaSXRsWUp3WG4xWUxYLTBWRTdWN0Fadndvd3BvT0tueU1tTF9pWXUxSC1TWE80TjltRnlObFhHNGl4cHdpWEVtTjJBTldlektBU3prcVlNdGtFN09VWkZlSnp6eU1CaWdmbDdTRlIyTXoyejJWTkRQTDBoWXd4WXhiNXp3cS1GcHdoTEtsSmtYZFpsSEhIX05IcDdqSktJTXhBMFFDMTZvU0ZibEpiM3BNTQ?oc=5",
+        "published": "Tue, 14 Jan 2025 08:00:00 GMT",
+        "source": "The Economic Times"
+      }
+    ]
+  },
+  "SUNPHARMA": {
+    "symbol": "SUNPHARMA",
+    "timestamp": "2025-07-26T16:47:28.786822",
+    "sentiment_score": 53.16,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Shares to buy for short term: NTPC to Sun Pharma\u2014 Jigar Patel of Anand Rathi recommends 3 stock picks; do you own any? - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQbzNJb0p5dWloZmJBX3ZUMmxQQld4M3NfSjkyWHgtd3d0eEFnTjRLUF9YQ0lrVGVKVk4xWElLME40V3R0MThwU1lIUXNwS1BlZVczZmh5bmRKMkFJRkllNl8waktzX2dPQW9BTmEyQ09QbXE3UVVOcFZTUFZpamFNb2NUdG0zbmNGLW5WWF9wSzhWdEFIVm40NGNsbUc5YlVaazlPVGRvc0tTR3VJVDVKbDJFYlYtbkhYVDI2djliai1RT2JoaFo0OU9jZHNySnJDaDRjbGowSDFpejJHWGV3dDc4elZNX3J2dGJQT05iamVnSi00MDhNQVdKWjA1MDNpX3c1SGxNLXBwVnFHSUdrdmtn0gGXAkFVX3lxTE4zc2dtRFJqV1JMWjVxV05oaElyeXMyVzJuQ3dLamJzOHJ1YW04T3g3TjZOdWNJeTdnTXNCX2tDVXd6UmRQdmhMbkNnRWZiSWNNTmlwbUNQWVBIdkVqVEdKeVZKZ01iYm5mZURWSmhLR0thVVNxQWdDSmZaVFkwRDI2aFpkTXRyemdEaFlSUGtSaXhjcnZWcGM5ZHg4VUNpc3JUNkI2WGxYVmlPS1VPbFRMQ0RrckxGbDY2SHBrVEZqS1Uxa3dtOTY0d1FUcGJnMkpyZXMwbV9aS1Q1OWdrMlJKUGx1UnlLYVRvSVNWNTA0R2tFT183X2JEMzB3cHIyYllVdGQtUkh5MlNndzFOM1lWdC0zdlAxZw?oc=5\" target=\"_blank\">Shares to buy for short term: NTPC to Sun Pharma\u2014 Jigar Patel of Anand Rathi recommends 3 stock picks; do you own any?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbzNJb0p5dWloZmJBX3ZUMmxQQld4M3NfSjkyWHgtd3d0eEFnTjRLUF9YQ0lrVGVKVk4xWElLME40V3R0MThwU1lIUXNwS1BlZVczZmh5bmRKMkFJRkllNl8waktzX2dPQW9BTmEyQ09QbXE3UVVOcFZTUFZpamFNb2NUdG0zbmNGLW5WWF9wSzhWdEFIVm40NGNsbUc5YlVaazlPVGRvc0tTR3VJVDVKbDJFYlYtbkhYVDI2djliai1RT2JoaFo0OU9jZHNySnJDaDRjbGowSDFpejJHWGV3dDc4elZNX3J2dGJQT05iamVnSi00MDhNQVdKWjA1MDNpX3c1SGxNLXBwVnFHSUdrdmtn0gGXAkFVX3lxTE4zc2dtRFJqV1JMWjVxV05oaElyeXMyVzJuQ3dLamJzOHJ1YW04T3g3TjZOdWNJeTdnTXNCX2tDVXd6UmRQdmhMbkNnRWZiSWNNTmlwbUNQWVBIdkVqVEdKeVZKZ01iYm5mZURWSmhLR0thVVNxQWdDSmZaVFkwRDI2aFpkTXRyemdEaFlSUGtSaXhjcnZWcGM5ZHg4VUNpc3JUNkI2WGxYVmlPS1VPbFRMQ0RrckxGbDY2SHBrVEZqS1Uxa3dtOTY0d1FUcGJnMkpyZXMwbV9aS1Q1OWdrMlJKUGx1UnlLYVRvSVNWNTA0R2tFT183X2JEMzB3cHIyYllVdGQtUkh5MlNndzFOM1lWdC0zdlAxZw?oc=5",
+        "published": "Mon, 30 Jun 2025 07:00:00 GMT",
+        "source": "Mint"
+      },
+      {
+        "title": "Sun Pharma share slips 2% as USFDA flags 8 observations for Halol facility - Business Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZW1Obnh5Wi1zNjhfQXJtZzd4T2RNQ1RhRWVNc21WXy1SdUUtR016Y2Y2Z2Ita0FHeVFOd0tCTEFzMmpxVHRKT01vR293YlNUUm9YYVhZc2NVeXYtVkJWRU9lRjhWY2FLeHZBMzdOUzRNUTRvX2I3RUIyMzZxOWZXLTQ1bEp2RGE4MEJnS2hFcmY4LXRrWmRhOUVWWmNKR0JDb3ZMbzBFcEJYbm8xeDJJb012ZjNnY0NnTUtzSEF6cE5yYS1TYmg0bEFwVk5oeGVYb25IOUFUZ9IB3AFBVV95cUxQZks1QTFLZi1SaEllZnVPc1ZydUN4ZVFOUmxPYTNmOGpLQ0NCRXBiWEgtXzdjTk5fTEgxOF94M3hVck0wQkRRalZUbVBkbHJZV1hJSXRzUld3X3ZyV3dwTTdKU011N0xBUGhZSk5zSy1YVjlWTnhKb3VfZ0wweVI2UFd2U0Q2Um0xTkhSakxQWmtGVHA5aG1PN09CZHh6bFR1aDNFaUpmb0liMkpBRzZPazA5Z1U0Qmx6WWFYR3ZDX1BJOG5WXzNqb1hIVGpQZnBzTG5hY0h5N0tTTmxo?oc=5\" target=\"_blank\">Sun Pharma share slips 2% as USFDA flags 8 observations for Halol facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZW1Obnh5Wi1zNjhfQXJtZzd4T2RNQ1RhRWVNc21WXy1SdUUtR016Y2Y2Z2Ita0FHeVFOd0tCTEFzMmpxVHRKT01vR293YlNUUm9YYVhZc2NVeXYtVkJWRU9lRjhWY2FLeHZBMzdOUzRNUTRvX2I3RUIyMzZxOWZXLTQ1bEp2RGE4MEJnS2hFcmY4LXRrWmRhOUVWWmNKR0JDb3ZMbzBFcEJYbm8xeDJJb012ZjNnY0NnTUtzSEF6cE5yYS1TYmg0bEFwVk5oeGVYb25IOUFUZ9IB3AFBVV95cUxQZks1QTFLZi1SaEllZnVPc1ZydUN4ZVFOUmxPYTNmOGpLQ0NCRXBiWEgtXzdjTk5fTEgxOF94M3hVck0wQkRRalZUbVBkbHJZV1hJSXRzUld3X3ZyV3dwTTdKU011N0xBUGhZSk5zSy1YVjlWTnhKb3VfZ0wweVI2UFd2U0Q2Um0xTkhSakxQWmtGVHA5aG1PN09CZHh6bFR1aDNFaUpmb0liMkpBRzZPazA5Z1U0Qmx6WWFYR3ZDX1BJOG5WXzNqb1hIVGpQZnBzTG5hY0h5N0tTTmxo?oc=5",
+        "published": "Mon, 16 Jun 2025 07:00:00 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "Tata Technologies, Sun Pharma & more: Top stocks on brokers' radar for July 17, 2025 - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQU3A3X2xOenVqWUw5TFFDWHB1WHpsSjAwNjhzcnRqMEJ1OE1kSW5uTGw5RWNSamtqclFOMXltRk9TN19DajdqNS1PNlEtV25VRHVDOEN1ZVFRdGxrTWhYUEtSa2FIbDQ4dGZvNUVOZWQ2dXNIOEtXblpoNVRPeU5GSHBZYUZaQ2RNQlk1ZHNKQmJHdTQ5d0d2ZWFxSXM4V3ItSlBiM29zbzlPRUlsV3R4clRPNjQ4ZmZrUkg2cGtKazM5alBRNW9QWWdIcDU0U0xWV0JfSHVIN2E4dGcyTWFSS2syX2ZCQnRJYV8yT2NkdVlneFZLNDhFaFVKQzduMU9nekpZLURRdGVBQ0l2bG1ubnloUDBpeHhmalFHSElqMzIyVDVG0gGqAkFVX3lxTFBMOTRaM2gxbkZCTnRkb1ZUZ19odC1xc2xQdjcxZmhsM0tiZzRZdTMyQWhyNXprbmRQd0loYTlkNUY3SXdFV1VFM0JIRlBrLXVJTHdfcWpyTFpaSTljdzNtUVhiVGlNMDc4bE0xY0YtU044TFBHLVpvUnpZU2p1YndqYXdDV2lSUDZLVzVSMUl4VkxYcjN5NmFiX0RmcWV2eVZfN0ZBZ0tSSFIzTEtTb0RxcDJGQ1FZaTNsY0ZyaGt4TVRpUUlFSWx2bzdGVW1Rb3ppbm5lU0RwbDFuVXc4Y1pGQ3MydzZMQ2k4dWtZdWVYWTBJR0lDOFVLNVY5ekNDb2x0VUlOLTNQNWN3RFRDTF9YbWJ0RXFZRlZQYUM1dENmelhsVVB6eUItdmc?oc=5\" target=\"_blank\">Tata Technologies, Sun Pharma & more: Top stocks on brokers' radar for July 17, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQU3A3X2xOenVqWUw5TFFDWHB1WHpsSjAwNjhzcnRqMEJ1OE1kSW5uTGw5RWNSamtqclFOMXltRk9TN19DajdqNS1PNlEtV25VRHVDOEN1ZVFRdGxrTWhYUEtSa2FIbDQ4dGZvNUVOZWQ2dXNIOEtXblpoNVRPeU5GSHBZYUZaQ2RNQlk1ZHNKQmJHdTQ5d0d2ZWFxSXM4V3ItSlBiM29zbzlPRUlsV3R4clRPNjQ4ZmZrUkg2cGtKazM5alBRNW9QWWdIcDU0U0xWV0JfSHVIN2E4dGcyTWFSS2syX2ZCQnRJYV8yT2NkdVlneFZLNDhFaFVKQzduMU9nekpZLURRdGVBQ0l2bG1ubnloUDBpeHhmalFHSElqMzIyVDVG0gGqAkFVX3lxTFBMOTRaM2gxbkZCTnRkb1ZUZ19odC1xc2xQdjcxZmhsM0tiZzRZdTMyQWhyNXprbmRQd0loYTlkNUY3SXdFV1VFM0JIRlBrLXVJTHdfcWpyTFpaSTljdzNtUVhiVGlNMDc4bE0xY0YtU044TFBHLVpvUnpZU2p1YndqYXdDV2lSUDZLVzVSMUl4VkxYcjN5NmFiX0RmcWV2eVZfN0ZBZ0tSSFIzTEtTb0RxcDJGQ1FZaTNsY0ZyaGt4TVRpUUlFSWx2bzdGVW1Rb3ppbm5lU0RwbDFuVXc4Y1pGQ3MydzZMQ2k4dWtZdWVYWTBJR0lDOFVLNVY5ekNDb2x0VUlOLTNQNWN3RFRDTF9YbWJ0RXFZRlZQYUM1dENmelhsVVB6eUItdmc?oc=5",
+        "published": "Thu, 17 Jul 2025 07:00:00 GMT",
+        "source": "Times of India"
+      }
+    ]
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "timestamp": "2025-07-26T16:47:28.777298",
+    "sentiment_score": 52.72,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Maruti Suzuki India Limited (532500) Expands into New Market - Free Stock Market Trend Analysis - PrintWeekIndia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3hNVnlGd20yZkF2QnB1OFZUN0k0eVc2Rk12Y09XbXJCcmZtQ21jSDhfYVplWWk0Nk1sbFk5eUhpdGY4TmJTaUxpck03Tmk5WGJlX1MyM1IxX2dGYXA3TzMyZVFoV3NKUllObXluUWxPZ2swWGl6VWN4cTNKdGt2cWg5bDJ6MHlfaHpkd0hkOThsQThZazV3Tm1EZm1mSTJTRHc?oc=5\" target=\"_blank\">Maruti Suzuki India Limited (532500) Expands into New Market - Free Stock Market Trend Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PrintWeekIndia</font>",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3hNVnlGd20yZkF2QnB1OFZUN0k0eVc2Rk12Y09XbXJCcmZtQ21jSDhfYVplWWk0Nk1sbFk5eUhpdGY4TmJTaUxpck03Tmk5WGJlX1MyM1IxX2dGYXA3TzMyZVFoV3NKUllObXluUWxPZ2swWGl6VWN4cTNKdGt2cWg5bDJ6MHlfaHpkd0hkOThsQThZazV3Tm1EZm1mSTJTRHc?oc=5",
+        "published": "Fri, 25 Jul 2025 17:16:00 GMT",
+        "source": "PrintWeekIndia"
+      },
+      {
+        "title": "Maruti Suzuki India Limited (MARUTI) Stock Experiences Sudden Dip - Free Real-Time Stock Data - jammulinksnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVFQYzJVeW53NUYwbmN6Y2R4X3Q0ZV9LbWFnMEJRRzdDU0hPdGltZFBXSUx6bTNTRm5HVm9TNllBM18zQWF3UmQ3NzFMYWx0cU1CbHRfaUN2eEMxX0Z5QVp5R3JSRm4yQ0hGMnFYWTNBb0gtek9KczNNZFc2bGQxb0kxWlI2OEhQeG0ycXY1RmhQR2lkNHNWYW12S05ESDVDM2dVYm03LVBFZDlm?oc=5\" target=\"_blank\">Maruti Suzuki India Limited (MARUTI) Stock Experiences Sudden Dip - Free Real-Time Stock Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jammulinksnews.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVFQYzJVeW53NUYwbmN6Y2R4X3Q0ZV9LbWFnMEJRRzdDU0hPdGltZFBXSUx6bTNTRm5HVm9TNllBM18zQWF3UmQ3NzFMYWx0cU1CbHRfaUN2eEMxX0Z5QVp5R3JSRm4yQ0hGMnFYWTNBb0gtek9KczNNZFc2bGQxb0kxWlI2OEhQeG0ycXY1RmhQR2lkNHNWYW12S05ESDVDM2dVYm03LVBFZDlm?oc=5",
+        "published": "Wed, 23 Jul 2025 00:45:19 GMT",
+        "source": "jammulinksnews.com"
+      },
+      {
+        "title": "Wipro, Maruti Suzuki, BPCL, DLF, Coforge to turn ex-dividend next week - Business Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTBpXzVoMjI1Q0ZwME1UemJLQ1JUSE1wNHFjTS1SekZrXzItMlM5MHBRa2h2TFdFekFtcUtQQXJiYlZPenlESjVXTjdRUGt2Ui1XaEhXVjF1UlR4Vk0zZm4zZG45ZElMUFpUeUh2Ym5JNEJReHQ1RzdwV2RzMGNWdXpUYzVPdFpTQnVjeUdNeGxBQ0NxRUkyMkktUWUyZC1CTkJTWHQ3emg5Yy1LcUdOR1dXSDVMY1p0eko1ZUtyQThVdnh4YU1zVmx3N0RKMjTSAdQBQVVfeXFMTlI3VTZzdDE2LUJxSWJHVWUtVzBVQmItZkNUNlRDb1FXY3FXVXBEV3J5SE9jcEdiaHNFbFhGaWM4SmxFcDdPWkRkSkxsdHBScUc3cThmMVltNl9UZEdJejZkR3Z4TUttOEpDVzBSSzFvaWJDRXM5X2hLTnhLQkFocjVYY0JGTGg1VklVbkFZVE1pdF9CZVhBNGJ5clNSbTFMczgzVjVNMlhzeXNHZVlUM0l3TDFoQUVxNzVPX1F5UXVCT3d4c1NWZnJaNUI3UFMtYWIycVU?oc=5\" target=\"_blank\">Wipro, Maruti Suzuki, BPCL, DLF, Coforge to turn ex-dividend next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTBpXzVoMjI1Q0ZwME1UemJLQ1JUSE1wNHFjTS1SekZrXzItMlM5MHBRa2h2TFdFekFtcUtQQXJiYlZPenlESjVXTjdRUGt2Ui1XaEhXVjF1UlR4Vk0zZm4zZG45ZElMUFpUeUh2Ym5JNEJReHQ1RzdwV2RzMGNWdXpUYzVPdFpTQnVjeUdNeGxBQ0NxRUkyMkktUWUyZC1CTkJTWHQ3emg5Yy1LcUdOR1dXSDVMY1p0eko1ZUtyQThVdnh4YU1zVmx3N0RKMjTSAdQBQVVfeXFMTlI3VTZzdDE2LUJxSWJHVWUtVzBVQmItZkNUNlRDb1FXY3FXVXBEV3J5SE9jcEdiaHNFbFhGaWM4SmxFcDdPWkRkSkxsdHBScUc3cThmMVltNl9UZEdJejZkR3Z4TUttOEpDVzBSSzFvaWJDRXM5X2hLTnhLQkFocjVYY0JGTGg1VklVbkFZVE1pdF9CZVhBNGJ5clNSbTFMczgzVjVNMlhzeXNHZVlUM0l3TDFoQUVxNzVPX1F5UXVCT3d4c1NWZnJaNUI3UFMtYWIycVU?oc=5",
+        "published": "Sat, 26 Jul 2025 04:48:06 GMT",
+        "source": "Business Today"
+      }
+    ]
+  },
+  "BAJFINANCE": {
+    "symbol": "BAJFINANCE",
+    "timestamp": "2025-07-26T16:47:28.789064",
+    "sentiment_score": 53.99,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Investor Optimism Abounds Bajaj Finance Limited (NSE:BAJFINANCE) But Growth Is Lacking - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLWVwZVItM2dIYm4yZ1h2b2xlMXdXcVdBVmFSNUZWcktBMzdEMzNUV29rM3RjNDhjT1Nhc0p1cDRfN1BCMDB4SmpGQW1CMk9kNENEOWRDRWxYeUU0YVFwdy12TlVkV2J6cE1uTE52STVISEhaOTQya0Zwc2IzU28xMXNNaUFobGQ3a1JNS1NpaFVyTEg2eDFNUFU3N25yNjd1WTJPTjJTNVJnNWJvZkhfZnUxVVdXT1VBV1VtQUIzblRabVBQdzZ0TV81RVlTTzNWU19EaWg5c1dVNU5jQXl2ZE9Lc3hkR29UYUpHZdIB8gFBVV95cUxPX18yYmRqTnhWejItbGNzdzhxemFwd0pydjNKdEZTb2lCS3B4a2FJS3ZOckVXR1hmTkNhMi12eWJqY241QVpOeGM0X2kzSHJQQjBSd0xTdnJWSEhZZ1JrR3JCQy1HT2xjclV1X3JSOVg0d01aVXM4UmJ2cmo4N19YcFFaQUZ5cWdUaWlzWW5ndjZBempvRDNEOVlaYlhFVTJ6UHVoY21uTEhTVjBlajdFaHlhU1hrWVBaR0NvZW5BbHZxck9qZFg1bzc1YU9ybWRZTFh0QjYzakxNcG5OQVduM3h6OXl1bkpmRHhMMC00UXM5QQ?oc=5\" target=\"_blank\">Investor Optimism Abounds Bajaj Finance Limited (NSE:BAJFINANCE) But Growth Is Lacking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLWVwZVItM2dIYm4yZ1h2b2xlMXdXcVdBVmFSNUZWcktBMzdEMzNUV29rM3RjNDhjT1Nhc0p1cDRfN1BCMDB4SmpGQW1CMk9kNENEOWRDRWxYeUU0YVFwdy12TlVkV2J6cE1uTE52STVISEhaOTQya0Zwc2IzU28xMXNNaUFobGQ3a1JNS1NpaFVyTEg2eDFNUFU3N25yNjd1WTJPTjJTNVJnNWJvZkhfZnUxVVdXT1VBV1VtQUIzblRabVBQdzZ0TV81RVlTTzNWU19EaWg5c1dVNU5jQXl2ZE9Lc3hkR29UYUpHZdIB8gFBVV95cUxPX18yYmRqTnhWejItbGNzdzhxemFwd0pydjNKdEZTb2lCS3B4a2FJS3ZOckVXR1hmTkNhMi12eWJqY241QVpOeGM0X2kzSHJQQjBSd0xTdnJWSEhZZ1JrR3JCQy1HT2xjclV1X3JSOVg0d01aVXM4UmJ2cmo4N19YcFFaQUZ5cWdUaWlzWW5ndjZBempvRDNEOVlaYlhFVTJ6UHVoY21uTEhTVjBlajdFaHlhU1hrWVBaR0NvZW5BbHZxck9qZFg1bzc1YU9ybWRZTFh0QjYzakxNcG5OQVduM3h6OXl1bkpmRHhMMC00UXM5QQ?oc=5",
+        "published": "Wed, 18 Jun 2025 07:00:00 GMT",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "Bajaj Finance share price crashes 90% today; here's why - Business Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWtMQmxHTHN1WnpJbHlVM0NmUkZaY0RzWnJpTVZwY1hibEVDTV9ycktpY1o0R3dkR2xHdTlVRUtTZmFWT1M5VU9Oa3Fna0x2a3NVdXdMTks0Z1RvV29ISXhOUkpfU2N4UEZITlBaTHdjcTdfbGpiR3NvbVV0VkRqaUVpYVlOOFp4MUpyV0hOU2hyWF81M2VNVEc0QTk4MnJndWpyazVoRFV3Q1ljOUhvMWNrMEMtSnZkcWpfU9IBwgFBVV95cUxNU01MTy1IZVJ4UFh2NXZuaWhXbnlIMmRxZ3NOemVoLXZEaTBUM3k5d3JxRVphTkRkSThvRE1tX0phZVNHYkdxWWlUdEpUWTRTWjl5ZDZrXzNaLXpkUklHc1N0QldLY2xGeUxmQjlDUE5yQ3BvcFA0a05uWXZZVG0tTGdjbDZMMkhKVXl4cjVEZFdyUlFLT0RENmRXYzlyOWJrZWdPVGRaRmpvWTN3Um14SENyOS1xWTllQ3p0eW4yR3JoZw?oc=5\" target=\"_blank\">Bajaj Finance share price crashes 90% today; here's why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWtMQmxHTHN1WnpJbHlVM0NmUkZaY0RzWnJpTVZwY1hibEVDTV9ycktpY1o0R3dkR2xHdTlVRUtTZmFWT1M5VU9Oa3Fna0x2a3NVdXdMTks0Z1RvV29ISXhOUkpfU2N4UEZITlBaTHdjcTdfbGpiR3NvbVV0VkRqaUVpYVlOOFp4MUpyV0hOU2hyWF81M2VNVEc0QTk4MnJndWpyazVoRFV3Q1ljOUhvMWNrMEMtSnZkcWpfU9IBwgFBVV95cUxNU01MTy1IZVJ4UFh2NXZuaWhXbnlIMmRxZ3NOemVoLXZEaTBUM3k5d3JxRVphTkRkSThvRE1tX0phZVNHYkdxWWlUdEpUWTRTWjl5ZDZrXzNaLXpkUklHc1N0QldLY2xGeUxmQjlDUE5yQ3BvcFA0a05uWXZZVG0tTGdjbDZMMkhKVXl4cjVEZFdyUlFLT0RENmRXYzlyOWJrZWdPVGRaRmpvWTN3Um14SENyOS1xWTllQ3p0eW4yR3JoZw?oc=5",
+        "published": "Mon, 16 Jun 2025 07:00:00 GMT",
+        "source": "Business Today"
+      },
+      {
+        "title": "India's Bajaj Finance plans share split, bonus issue of shares - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEk5TDZaakpuVFh6TTU2b0lQbFlRWmQzM2dXdk4zV1Q5NTM3YzdoR1kwSHh1emZtZDRZdmtRUWF4V0lHdnlLS2pLVE1jZ0M1SHBVSE5OZzRIRmpGU3B3UGExVm1DcUtOQWtWSXFPV204WktGQWtRLWx6akNTa2FoRWNZWVRPWlpnMUN2eGNtMExfM1huX1JjeU0weDFtal9NYkFCNlZNNVR2WlJrVnB5eXl2SmlRaEE4WnNfU1BJZjZtalJyejJDMXhsVQ?oc=5\" target=\"_blank\">India's Bajaj Finance plans share split, bonus issue of shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEk5TDZaakpuVFh6TTU2b0lQbFlRWmQzM2dXdk4zV1Q5NTM3YzdoR1kwSHh1emZtZDRZdmtRUWF4V0lHdnlLS2pLVE1jZ0M1SHBVSE5OZzRIRmpGU3B3UGExVm1DcUtOQWtWSXFPV204WktGQWtRLWx6akNTa2FoRWNZWVRPWlpnMUN2eGNtMExfM1huX1JjeU0weDFtal9NYkFCNlZNNVR2WlJrVnB5eXl2SmlRaEE4WnNfU1BJZjZtalJyejJDMXhsVQ?oc=5",
+        "published": "Wed, 23 Apr 2025 07:00:00 GMT",
+        "source": "TradingView"
+      }
+    ]
+  },
+  "ONGC": {
+    "symbol": "ONGC",
+    "timestamp": "2025-07-26T16:47:33.836249",
+    "sentiment_score": 46.94,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 0.92,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Coal India, ONGC to BPCL \u2014 These 15 PSU stocks have highest dividend yields. Do you own any? - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVJQbVltVkNaeEJUcTZadEhJNHZUb0UtcWdkNWpqZWxULVU3WHZvRzcxaGMtR2dTQjlkdnhRNlZtdDhjV1hGN3RVQUtnNlFjUVBiOGtPc0pXM0xLVksyaE1GNHFBV3B2akRTWTMweUhNbHd3aDdYQ21VcjdyMlhGV2w0MW9hQUFWOU1Hal9jdDFfTUlmOVVLTk96QzJCTl9PakRjUi01S2ZmVFB5cWxsMG54bm1SQjJpd01XaTAySVA0RFM5cEpvaUZzVENnZGQ4a3dvQUNWRzl1SmZfR1VqY3pqT3JmLWhMWnRJbG1R0gHzAUFVX3lxTFBKakswOEdoUjBlTjgxM19aMWVOUFJCcjdZTXBmZVdETHM3Rl9fQUM1REVyQXNGSkNlNW5rNkh5b0x1UWd4V2h4NWtySXZfbzh2NV9JYmE5M3pNaEFRRDZRTXBfelllWV8ySVlNZENScmpiOFY3QzJoWEV1T19IVjdwbF9fbjdXVTNxcWJWUTlPRFJMek0zSzVQalZXX1JaaGJ0czVodVhRUWt4S3lKN0dZdjBqVGExc216YksxQzIzUDB3SnI0R3JPc2RqMGtWb19LclNTZzc4UVc5aVpsc0F2a1Z1M2pLb0IxcHBVS2JuNTdlSQ?oc=5\" target=\"_blank\">Coal India, ONGC to BPCL \u2014 These 15 PSU stocks have highest dividend yields. Do you own any?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVJQbVltVkNaeEJUcTZadEhJNHZUb0UtcWdkNWpqZWxULVU3WHZvRzcxaGMtR2dTQjlkdnhRNlZtdDhjV1hGN3RVQUtnNlFjUVBiOGtPc0pXM0xLVksyaE1GNHFBV3B2akRTWTMweUhNbHd3aDdYQ21VcjdyMlhGV2w0MW9hQUFWOU1Hal9jdDFfTUlmOVVLTk96QzJCTl9PakRjUi01S2ZmVFB5cWxsMG54bm1SQjJpd01XaTAySVA0RFM5cEpvaUZzVENnZGQ4a3dvQUNWRzl1SmZfR1VqY3pqT3JmLWhMWnRJbG1R0gHzAUFVX3lxTFBKakswOEdoUjBlTjgxM19aMWVOUFJCcjdZTXBmZVdETHM3Rl9fQUM1REVyQXNGSkNlNW5rNkh5b0x1UWd4V2h4NWtySXZfbzh2NV9JYmE5M3pNaEFRRDZRTXBfelllWV8ySVlNZENScmpiOFY3QzJoWEV1T19IVjdwbF9fbjdXVTNxcWJWUTlPRFJMek0zSzVQalZXX1JaaGJ0czVodVhRUWt4S3lKN0dZdjBqVGExc216YksxQzIzUDB3SnI0R3JPc2RqMGtWb19LclNTZzc4UVc5aVpsc0F2a1Z1M2pLb0IxcHBVS2JuNTdlSQ?oc=5",
+        "published": "Mon, 21 Jul 2025 05:46:44 GMT",
+        "source": "Mint"
+      },
+      {
+        "title": "Stocks to buy today: ONGC, HDFC AMC among top 7 trading ideas for 21 July 2025 - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFQ1Y3R4dmoxbE1sVGI4MmRBRUxDQmhKWDRhNWN2UHN5akJCWXpMTFhzZFVsbHZ2a3Zpd3FiUmxRdExESEtyRTBrOGxLelV4bXJ3NjlQLUd4dVUtWWJpZHEyQ2NxRGhNVmVJc2FBbjlmSWJtakhpOTI1U3o2U0Rna2FfVm9pSEYza1g4Ty1JTDFsT1pjWk5xazNJLTlBNjlsTXFOS2ZQeGhRTXB2Q2d1Qi16dkRRMUxlQ21BT2xPd1hxNkpORDJCSFViOXRjWGJZU2EtWnNJcUpZREFYUmVDMTE5QUzSAeoBQVVfeXFMTW9TWUNRNElmbzNKeHVYYnIzTHQ2aXNRb0JGdnJMckhrTkxNcjNxdFF3ZU95QjNoSHo4bEJoZVNwWFQ2a0Y3WXdGYWI0b1dQdG4yVkgwcWRPakhsWjlWVU1nTXhleXd3eE5odWd6RmlQdEdsXzNtbkJhYU12SUFpRk41OE1GcWc0UmJyRlg4dlhSZzg3aDVRVUJxTFdRalFlZTV1YjR1bHJaSm1XWElCSHJZcjJ3RjhWNUN6alB3TUt0bXB0RWdwUmVLc1c0TTZveFUyd05JMVVaX0U4b2dyMVNRYWdwR2NMQ01R?oc=5\" target=\"_blank\">Stocks to buy today: ONGC, HDFC AMC among top 7 trading ideas for 21 July 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFQ1Y3R4dmoxbE1sVGI4MmRBRUxDQmhKWDRhNWN2UHN5akJCWXpMTFhzZFVsbHZ2a3Zpd3FiUmxRdExESEtyRTBrOGxLelV4bXJ3NjlQLUd4dVUtWWJpZHEyQ2NxRGhNVmVJc2FBbjlmSWJtakhpOTI1U3o2U0Rna2FfVm9pSEYza1g4Ty1JTDFsT1pjWk5xazNJLTlBNjlsTXFOS2ZQeGhRTXB2Q2d1Qi16dkRRMUxlQ21BT2xPd1hxNkpORDJCSFViOXRjWGJZU2EtWnNJcUpZREFYUmVDMTE5QUzSAeoBQVVfeXFMTW9TWUNRNElmbzNKeHVYYnIzTHQ2aXNRb0JGdnJMckhrTkxNcjNxdFF3ZU95QjNoSHo4bEJoZVNwWFQ2a0Y3WXdGYWI0b1dQdG4yVkgwcWRPakhsWjlWVU1nTXhleXd3eE5odWd6RmlQdEdsXzNtbkJhYU12SUFpRk41OE1GcWc0UmJyRlg4dlhSZzg3aDVRVUJxTFdRalFlZTV1YjR1bHJaSm1XWElCSHJZcjJ3RjhWNUN6alB3TUt0bXB0RWdwUmVLc1c0TTZveFUyd05JMVVaX0U4b2dyMVNRYWdwR2NMQ01R?oc=5",
+        "published": "Mon, 21 Jul 2025 04:02:28 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Oil India, ONGC Shares Tumble up to 6% as Crude Prices Crash After Surprise OPEC+ Output Hike - Groww",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOcG10R2FmN2F1MG1FdklFUWdyQjFjRnRjSzdmZDg4YXY0MmJuRE9XVkQ0a1ZrMzk3cjNoRHdqdGN3NjFhTGRuMTZTRFRYTjRoT2RtOV9ubTcxMVMzdk5vQl90d3FaZ1hNdkRza2g2dEpYTGp3WHJkRWRqeFR0RklRUw?oc=5\" target=\"_blank\">Oil India, ONGC Shares Tumble up to 6% as Crude Prices Crash After Surprise OPEC+ Output Hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Groww</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcG10R2FmN2F1MG1FdklFUWdyQjFjRnRjSzdmZDg4YXY0MmJuRE9XVkQ0a1ZrMzk3cjNoRHdqdGN3NjFhTGRuMTZTRFRYTjRoT2RtOV9ubTcxMVMzdk5vQl90d3FaZ1hNdkRza2g2dEpYTGp3WHJkRWRqeFR0RklRUw?oc=5",
+        "published": "Fri, 04 Apr 2025 07:00:00 GMT",
+        "source": "Groww"
+      }
+    ]
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "timestamp": "2025-07-26T16:47:33.859404",
+    "sentiment_score": 54.45,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Kotak Mahindra Bank Limited (KOTAKBANK) Stock Experiences Sudden Dip - Free Stock Index Interpretation - PrintWeekIndia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkdfcWk5SXNURERpbkFrb0lyOHJXS2JfUng3RElQYXJ0SnNlVjZ2aVZRaFFxZVJkSVM1ZEdWbWpqS1N4V1FjWTdiUFJBaWFDNUp2Z2tIck1xcl8tcXR1eE9zczI3b0FVVWtKVnktSTFFemF1WDFhT0R3NHplOXM3RnJPVDJ5a1ZSOFpuUzc0NHdpenA3OFJCeWp5bDlXQ0FR?oc=5\" target=\"_blank\">Kotak Mahindra Bank Limited (KOTAKBANK) Stock Experiences Sudden Dip - Free Stock Index Interpretation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PrintWeekIndia</font>",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkdfcWk5SXNURERpbkFrb0lyOHJXS2JfUng3RElQYXJ0SnNlVjZ2aVZRaFFxZVJkSVM1ZEdWbWpqS1N4V1FjWTdiUFJBaWFDNUp2Z2tIck1xcl8tcXR1eE9zczI3b0FVVWtKVnktSTFFemF1WDFhT0R3NHplOXM3RnJPVDJ5a1ZSOFpuUzc0NHdpenA3OFJCeWp5bDlXQ0FR?oc=5",
+        "published": "Sun, 20 Jul 2025 16:39:35 GMT",
+        "source": "PrintWeekIndia"
+      },
+      {
+        "title": "How a crisis-time investment turned into Rs 6,886 Cr windfall for Kotak Bank - financialexpress.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmFCN3ZJTjhUX0l6YnFVYmRlcFRITVo0LUg0cWF2b1Y0TGY5UUdzT01FR0xSWWpfNHpQRUNXdXZYNEZsMkVDcXI2UTd6cGpWa2RMRnBqbVBwM0tsd0MzSmVrQWxMVWV4a2Vpa0FRczZ6MFpJbGZ6U0hvRmFPZGE2ckxXSnQ0RGVzMDlWWXZ2TnhWOTNHOVNveUkxNi1MRUktb3otWWNIcHRFcjlvTnEtWW5kcGNPc08wdEdEdUJRZVZxUENPSzY2VXZsdFZPT0FET1NFQnRn?oc=5\" target=\"_blank\">How a crisis-time investment turned into Rs 6,886 Cr windfall for Kotak Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">financialexpress.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmFCN3ZJTjhUX0l6YnFVYmRlcFRITVo0LUg0cWF2b1Y0TGY5UUdzT01FR0xSWWpfNHpQRUNXdXZYNEZsMkVDcXI2UTd6cGpWa2RMRnBqbVBwM0tsd0MzSmVrQWxMVWV4a2Vpa0FRczZ6MFpJbGZ6U0hvRmFPZGE2ckxXSnQ0RGVzMDlWWXZ2TnhWOTNHOVNveUkxNi1MRUktb3otWWNIcHRFcjlvTnEtWW5kcGNPc08wdEdEdUJRZVZxUENPSzY2VXZsdFZPT0FET1NFQnRn?oc=5",
+        "published": "Sat, 05 Jul 2025 07:00:00 GMT",
+        "source": "financialexpress.com"
+      },
+      {
+        "title": "State Bank of India, Kotak Mahindra Bank shares fall on soft earnings - Business Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamZweTVUVlFfSno2RDY5eXk3cE5uRlVTbDFybFRmeG1ZUE5ZSXFvQWtlUmlIQmJVWnZycG9ZemFMSFVmaWpsQ0VOTTJsTlpFYUtUMXQ0Y25feS1aZXh1dG5QTVNmVnNfOHVMNGxnc2xBNXVCb3BaUlNFNGhKVi0ybWpxck03LW4tZjgwb3VoQndGSEFnNmZCVTducEhQMllsaDItR0xZVzRkaE16a2tnQlFHV2hzQzRlc0ZoeTl4aXhrS0hoTWdYdVlZRmRieTVY0gHWAUFVX3lxTFBEc1Z1cXRoRERzclZndVcwamNxbWRNWkd6Vnh3UGJoNXJkc1dwOEpGV3Vhb0RzOFpPaE1vQnZzMkdTbklJdXBMblhiUUYzZko3bFVZa01uT3FBOERHLXBYNllkUTlGQmV1WmVLU0Fra3JpNjJIVkRhYWtEbHVNTVhWVzZoZURkNkp0RXljVVFRWmJPeS1SUm9HazJZOG5mOEVWd1l1WkFJdlhnT1ZRUloxZjdFLXhpLVc4YmN3T3JPVDVVLWt3Q2pVUGtPTnpzNWhEdjhXZnc?oc=5\" target=\"_blank\">State Bank of India, Kotak Mahindra Bank shares fall on soft earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamZweTVUVlFfSno2RDY5eXk3cE5uRlVTbDFybFRmeG1ZUE5ZSXFvQWtlUmlIQmJVWnZycG9ZemFMSFVmaWpsQ0VOTTJsTlpFYUtUMXQ0Y25feS1aZXh1dG5QTVNmVnNfOHVMNGxnc2xBNXVCb3BaUlNFNGhKVi0ybWpxck03LW4tZjgwb3VoQndGSEFnNmZCVTducEhQMllsaDItR0xZVzRkaE16a2tnQlFHV2hzQzRlc0ZoeTl4aXhrS0hoTWdYdVlZRmRieTVY0gHWAUFVX3lxTFBEc1Z1cXRoRERzclZndVcwamNxbWRNWkd6Vnh3UGJoNXJkc1dwOEpGV3Vhb0RzOFpPaE1vQnZzMkdTbklJdXBMblhiUUYzZko3bFVZa01uT3FBOERHLXBYNllkUTlGQmV1WmVLU0Fra3JpNjJIVkRhYWtEbHVNTVhWVzZoZURkNkp0RXljVVFRWmJPeS1SUm9HazJZOG5mOEVWd1l1WkFJdlhnT1ZRUloxZjdFLXhpLVc4YmN3T3JPVDVVLWt3Q2pVUGtPTnpzNWhEdjhXZnc?oc=5",
+        "published": "Mon, 05 May 2025 07:00:00 GMT",
+        "source": "Business Standard"
+      }
+    ]
+  },
+  "TITAN": {
+    "symbol": "TITAN",
+    "timestamp": "2025-07-26T16:47:33.847783",
+    "sentiment_score": 51.5,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Titan shares tumble 5% after Q1 business update fails to impress D-Street - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVpOdEpzMGVXcmd4OTNkMkV6NzRIOUZqZTlrXzRGZEJuQ2RENVNXRlBLa3EwU3hkT1JURFFSNUhBQ3VEQVJfSnNQZ1FBTGkzd0xGbG9UUFZma3VFWVgyYXR5VFVfdF9YZ2RZQ3JMZWVTNXczSWhTYzhOeEF3bEhQT2VUM0FxZHBjWlJLa3R1VUZVZXlzSlpTZFl3ZVVBLTZHM01RUDdPTU0wVmtoN0x6UUJ4UFB6dUF4NUhYLXJPYV9zMWc4ODJVSEZlTWNZZ1NVS1dYOUJaZ3RGMXJxZzgzMVlwa1RBZURNNXE2NDFxT1A4LXd6dUxXZ3hzaklud9IBgwJBVV95cUxPMGtPVXlhbUowNldCZXVUX0NLRF9RNWpTNjNBNDRJbXU3T3hTaDhZYXU1RE44VG9pMUtqRjYtaGpYZ0lyaUVlbjU2Sm5MbUhxcU8wTW1wbEdOcWdpV29nbG40UzZIZVhrUHlMQm8zbTBuV2tnUXJFRkRaSXVYaVZvMTFubnZ0WFd2MFVEZmZ1UWZjTnVFMlBJMElBMmRvcFF5TXhXQmtQQ3dzeDFKd3hIdjVlRE9xLXFYM1JzUUQ3MmlrdWJMQmpnRGdzZm5nT2cwbnZkNEpDUXlGcmwyTGRidjNJa2tndXNXVndNOVhrSWpnei1hYkxFMVZMenRmT2VzWVZR?oc=5\" target=\"_blank\">Titan shares tumble 5% after Q1 business update fails to impress D-Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVpOdEpzMGVXcmd4OTNkMkV6NzRIOUZqZTlrXzRGZEJuQ2RENVNXRlBLa3EwU3hkT1JURFFSNUhBQ3VEQVJfSnNQZ1FBTGkzd0xGbG9UUFZma3VFWVgyYXR5VFVfdF9YZ2RZQ3JMZWVTNXczSWhTYzhOeEF3bEhQT2VUM0FxZHBjWlJLa3R1VUZVZXlzSlpTZFl3ZVVBLTZHM01RUDdPTU0wVmtoN0x6UUJ4UFB6dUF4NUhYLXJPYV9zMWc4ODJVSEZlTWNZZ1NVS1dYOUJaZ3RGMXJxZzgzMVlwa1RBZURNNXE2NDFxT1A4LXd6dUxXZ3hzaklud9IBgwJBVV95cUxPMGtPVXlhbUowNldCZXVUX0NLRF9RNWpTNjNBNDRJbXU3T3hTaDhZYXU1RE44VG9pMUtqRjYtaGpYZ0lyaUVlbjU2Sm5MbUhxcU8wTW1wbEdOcWdpV29nbG40UzZIZVhrUHlMQm8zbTBuV2tnUXJFRkRaSXVYaVZvMTFubnZ0WFd2MFVEZmZ1UWZjTnVFMlBJMElBMmRvcFF5TXhXQmtQQ3dzeDFKd3hIdjVlRE9xLXFYM1JzUUQ3MmlrdWJMQmpnRGdzZm5nT2cwbnZkNEpDUXlGcmwyTGRidjNJa2tndXNXVndNOVhrSWpnei1hYkxFMVZMenRmT2VzWVZR?oc=5",
+        "published": "Tue, 08 Jul 2025 07:00:00 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Should you buy Titan, BEL, Bata, Indian Bank shares? Fundamental and technical stock picks for July 25 - Zee Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ1NEY1NuMzhkNHhEVG9yXzdFSTlHUEZtTDJTYUQ3elJoMlAwYnM5Z2gtb0paNzBOWUY3ZEV5MXhsTkFGOXowV2VoRW5qMjdfaHZGazR6OS0xUWJHdHB6WG9nU2hLSE9KeWdfQVM0bUhDd1Nub1o0MklDZEMzLThxT0pId1dIaTF5TGhxV2VKa3dOQm5Ya05uWXB4Sk1UR1BWeHAzbGd5dnBHQlJRMnRfR0gtekJXUkFRZVFGRzEtRG9uZ09aUVBSXzNLQjlPY04zOFAwRUJFZElodlYzMS1KUjdhcFdBRzJxTkh4Smln?oc=5\" target=\"_blank\">Should you buy Titan, BEL, Bata, Indian Bank shares? Fundamental and technical stock picks for July 25</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zee Business</font>",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ1NEY1NuMzhkNHhEVG9yXzdFSTlHUEZtTDJTYUQ3elJoMlAwYnM5Z2gtb0paNzBOWUY3ZEV5MXhsTkFGOXowV2VoRW5qMjdfaHZGazR6OS0xUWJHdHB6WG9nU2hLSE9KeWdfQVM0bUhDd1Nub1o0MklDZEMzLThxT0pId1dIaTF5TGhxV2VKa3dOQm5Ya05uWXB4Sk1UR1BWeHAzbGd5dnBHQlJRMnRfR0gtekJXUkFRZVFGRzEtRG9uZ09aUVBSXzNLQjlPY04zOFAwRUJFZElodlYzMS1KUjdhcFdBRzJxTkh4Smln?oc=5",
+        "published": "Fri, 25 Jul 2025 04:17:18 GMT",
+        "source": "Zee Business"
+      },
+      {
+        "title": "Titan to acquire 67% stake in Damas jewellery via UAE subsidiary - Business Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZE1ybkRuS0JjRzFpNVVYZ1RyT3RqZi14N0RkVnQ4MlFpOWRoNE1DN3FfRGJKV3NVU1FFMkllZFRRVzJxU3psWlJad2tUWGlJREtmWnV4X09LTzFNYVBsa0ladHJNb1M2anZlakc5RVk1QVFxWHhiVDdFRGxhQ2FEek51NnpoeWNlVnBJb1RqMnlta0hlTERUR1pVbFFEeEZBemMtNWtZYy0ydlVaajVIQUw3aFQ2dlFaclNPd0dGZ1dkXy11aGVaRNIBzgFBVV95cUxQNDdHaVBGU2ZxOGZTQ0ZYYmJzMGdFTWJwTmZyMEs3TEdqaUpPSUY1Zm5zeTlOV0l1X2h1VnFfbTIwQ3FXOHpJN1VPT2NweFliN240cm1xM2pCV2FjRUl4MGhoV1hZUER3ellNbk5sOFdGYVNlN3hNRkQzYXpYVGk0Snk1a2hPQmtKblB0a1otd04wZjc3bHJNMjVCWXh5cWFfMjI3QzJSek1vVmtLVlBrT19rS3lNX3ZOOGI2Vl8xcTVIcUVJZHZyTjE5UHpQUQ?oc=5\" target=\"_blank\">Titan to acquire 67% stake in Damas jewellery via UAE subsidiary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZE1ybkRuS0JjRzFpNVVYZ1RyT3RqZi14N0RkVnQ4MlFpOWRoNE1DN3FfRGJKV3NVU1FFMkllZFRRVzJxU3psWlJad2tUWGlJREtmWnV4X09LTzFNYVBsa0ladHJNb1M2anZlakc5RVk1QVFxWHhiVDdFRGxhQ2FEek51NnpoeWNlVnBJb1RqMnlta0hlTERUR1pVbFFEeEZBemMtNWtZYy0ydlVaajVIQUw3aFQ2dlFaclNPd0dGZ1dkXy11aGVaRNIBzgFBVV95cUxQNDdHaVBGU2ZxOGZTQ0ZYYmJzMGdFTWJwTmZyMEs3TEdqaUpPSUY1Zm5zeTlOV0l1X2h1VnFfbTIwQ3FXOHpJN1VPT2NweFliN240cm1xM2pCV2FjRUl4MGhoV1hZUER3ellNbk5sOFdGYVNlN3hNRkQzYXpYVGk0Snk1a2hPQmtKblB0a1otd04wZjc3bHJNMjVCWXh5cWFfMjI3QzJSek1vVmtLVlBrT19rS3lNX3ZOOGI2Vl8xcTVIcUVJZHZyTjE5UHpQUQ?oc=5",
+        "published": "Mon, 21 Jul 2025 11:34:09 GMT",
+        "source": "Business Standard"
+      }
+    ]
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "timestamp": "2025-07-26T16:47:33.876068",
+    "sentiment_score": 50.64,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Eternal market cap zooms past Wipro, Tata Motors, Asian Paints, other Nifty 50 stocks; valuation triples since listing - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkpiNEM3M281R25MQlktRmFBZUt1QnhBREhYWVlLUWxiNC1oeE1TQm9xaWpzS2FTbXBXbkdCX3ZFSF81ejN0UnpLRW9MYzkzOWE3UVlZcmdHZ002QlpYR19kb0N2cTFVTDdqUUxMNWlfQjN2UFpfdFJ0UE9VdkxvX0o0a1JIYUg1SW5mTE9McW1zUUZlNUJhdVBrU3M5Q3B4MUU3cnF1SHlCNm5uLUV2TVNnQnhIeGRTUC1wX2F4QjVsXy12bHRYaEliN19NTWNZOFFpN1Ntc09jWUhHdGVZczRrNVZZQkx3X0ljeC1LRXpha3FVRlJwNjg0T0ltQnBJWUVPLXFfSGRweE5udUNQX2Zn0gGXAkFVX3lxTE5TMGNVbERXQTlaMW15ckM3WWtjY1diaXlYT0praUI3MG1OZGY2MWV4X2ZsSHZkYWhESHFsMWptM05oVzJYa19ka19RSVd4a3A5bUFySkZPLVZTWmd3Zkw3LXJfSUJvRThXWDdTTXdYY0dRUExoNEphRjhhbFFSRXFiWWN0RnpoanFROEdjUHN1UzhGMXFkcTJHMnI3ajdaVG0yTHBNUFFGSE43QmNQTENaQ2Q1TzIxSXhDQjN4Nmc2QWhrcV9QYzF0Z0RjLXlEZlMwblY5emlQaW9HQkRTOTkzVlpMMXNQOGc1cDRUT0NfYXp0Yl9mOVdTc2g1NzlGZTBVNG1zNmhJRVR2c3l3NzMwNFJWZFlNZw?oc=5\" target=\"_blank\">Eternal market cap zooms past Wipro, Tata Motors, Asian Paints, other Nifty 50 stocks; valuation triples since listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkpiNEM3M281R25MQlktRmFBZUt1QnhBREhYWVlLUWxiNC1oeE1TQm9xaWpzS2FTbXBXbkdCX3ZFSF81ejN0UnpLRW9MYzkzOWE3UVlZcmdHZ002QlpYR19kb0N2cTFVTDdqUUxMNWlfQjN2UFpfdFJ0UE9VdkxvX0o0a1JIYUg1SW5mTE9McW1zUUZlNUJhdVBrU3M5Q3B4MUU3cnF1SHlCNm5uLUV2TVNnQnhIeGRTUC1wX2F4QjVsXy12bHRYaEliN19NTWNZOFFpN1Ntc09jWUhHdGVZczRrNVZZQkx3X0ljeC1LRXpha3FVRlJwNjg0T0ltQnBJWUVPLXFfSGRweE5udUNQX2Zn0gGXAkFVX3lxTE5TMGNVbERXQTlaMW15ckM3WWtjY1diaXlYT0praUI3MG1OZGY2MWV4X2ZsSHZkYWhESHFsMWptM05oVzJYa19ka19RSVd4a3A5bUFySkZPLVZTWmd3Zkw3LXJfSUJvRThXWDdTTXdYY0dRUExoNEphRjhhbFFSRXFiWWN0RnpoanFROEdjUHN1UzhGMXFkcTJHMnI3ajdaVG0yTHBNUFFGSE43QmNQTENaQ2Q1TzIxSXhDQjN4Nmc2QWhrcV9QYzF0Z0RjLXlEZlMwblY5emlQaW9HQkRTOTkzVlpMMXNQOGc1cDRUT0NfYXp0Yl9mOVdTc2g1NzlGZTBVNG1zNmhJRVR2c3l3NzMwNFJWZFlNZw?oc=5",
+        "published": "Wed, 23 Jul 2025 08:21:56 GMT",
+        "source": "Mint"
+      },
+      {
+        "title": "Asian Paints shares see Rs 1900 crore block deal, stock up 1% - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxORTVNc0Nva2Vfc2xvcGdmUGlmZTFFanNtWVoydm95NktzckJWNllmT3pjQWtsZHU1QmVqRmhTR1ZHV2ZLb1M5WElRWjlzdzlLSGlLWUFCT3ZYd1l1Vm0td3Z1LWhpYjdJbUJCem5pcnctQzVpZ3A4cVhLTXYtLXVPbkVENEN2dWJZNWJ4WTEtODcwMlBEMjJZWWxOZ1JYOWVaOW1ORHBObXdXUUtOVWxqcHJDYnFZbWE4QktzMERYV2xqN2JrdEpkTTRrSG90Z9IB0wFBVV95cUxQbnVKZzdKQXltLVBsR3I4MWNqRmk5Z05QSUpmbmxwQi1uVW9RaE90bkNtMEtyczJQN2Z0cGV2ZUxfTmRwUDMyVHpxci01RVJ4MU4za0ZSTUhQandmOXhSQkYwZTNnTHdDM2VTcFd2MmR5ZzNEc2FhYXpGc2c3cmxQQi1Xc1p6OVpuUGJmOWxQZmt4VUJYZjYyR2lmUnR5WWtxbW5JS19nUlNfT1U2eWVOUWtBTlkyME1uTnJISjUtdDhETzMtcmNLSjVQc2hNTm83N0RB?oc=5\" target=\"_blank\">Asian Paints shares see Rs 1900 crore block deal, stock up 1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORTVNc0Nva2Vfc2xvcGdmUGlmZTFFanNtWVoydm95NktzckJWNllmT3pjQWtsZHU1QmVqRmhTR1ZHV2ZLb1M5WElRWjlzdzlLSGlLWUFCT3ZYd1l1Vm0td3Z1LWhpYjdJbUJCem5pcnctQzVpZ3A4cVhLTXYtLXVPbkVENEN2dWJZNWJ4WTEtODcwMlBEMjJZWWxOZ1JYOWVaOW1ORHBObXdXUUtOVWxqcHJDYnFZbWE4QktzMERYV2xqN2JrdEpkTTRrSG90Z9IB0wFBVV95cUxQbnVKZzdKQXltLVBsR3I4MWNqRmk5Z05QSUpmbmxwQi1uVW9RaE90bkNtMEtyczJQN2Z0cGV2ZUxfTmRwUDMyVHpxci01RVJ4MU4za0ZSTUhQandmOXhSQkYwZTNnTHdDM2VTcFd2MmR5ZzNEc2FhYXpGc2c3cmxQQi1Xc1p6OVpuUGJmOWxQZmt4VUJYZjYyR2lmUnR5WWtxbW5JS19nUlNfT1U2eWVOUWtBTlkyME1uTnJISjUtdDhETzMtcmNLSjVQc2hNTm83N0RB?oc=5",
+        "published": "Mon, 16 Jun 2025 07:00:00 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Is Asian Paints losing its shine? - Finshots",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBJMGZsdm9yQlZjZ3lzT0hTRVoxM2ZUZmIzaDlWb2hScGRkYU8yYU9wUkE1RmVtSXBSWVZZMlp1WU9NMFJXZjA3amVUVTRfX0NpNmJoOXE3VG9panVNaWUteG1WRk10U0JlYjBzMHNB?oc=5\" target=\"_blank\">Is Asian Paints losing its shine?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finshots</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJMGZsdm9yQlZjZ3lzT0hTRVoxM2ZUZmIzaDlWb2hScGRkYU8yYU9wUkE1RmVtSXBSWVZZMlp1WU9NMFJXZjA3amVUVTRfX0NpNmJoOXE3VG9panVNaWUteG1WRk10U0JlYjBzMHNB?oc=5",
+        "published": "Fri, 16 May 2025 07:00:00 GMT",
+        "source": "Finshots"
+      }
+    ]
+  },
+  "NESTLEIND": {
+    "symbol": "NESTLEIND",
+    "timestamp": "2025-07-26T16:47:33.888253",
+    "sentiment_score": 53.97,
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 1.0,
+    "article_count": 15,
+    "recent_articles": [
+      {
+        "title": "Nestl\u00e9 India Limited (NESTLEIND) vs yyy - Free Stock Selection - PrintWeekIndia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUZDUFlUUFZkTVVhQkJWdnBkUlh6dkhIckk3bmR5bnJ1WDN2ckFnQTBReHRkQnBELXhlbm56RDN6RFJSeW1uS0ZDdjFfZmVicS16ZWtHWW4wOVpZUE9SQ2ZScUxzdi1NenJuQTNHc3FjMkxjYUZXYlE2b2pDaTg5d0l3N2R3NHlUS1E2bw?oc=5\" target=\"_blank\">Nestl\u00e9 India Limited (NESTLEIND) vs yyy - Free Stock Selection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PrintWeekIndia</font>",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUZDUFlUUFZkTVVhQkJWdnBkUlh6dkhIckk3bmR5bnJ1WDN2ckFnQTBReHRkQnBELXhlbm56RDN6RFJSeW1uS0ZDdjFfZmVicS16ZWtHWW4wOVpZUE9SQ2ZScUxzdi1NenJuQTNHc3FjMkxjYUZXYlE2b2pDaTg5d0l3N2R3NHlUS1E2bw?oc=5",
+        "published": "Fri, 25 Jul 2025 20:56:07 GMT",
+        "source": "PrintWeekIndia"
+      },
+      {
+        "title": "Bullish Pattern Emerging on Nestl\u00e9 India Limited (NESTLEIND) - Free Stock Market Forecast Reports - jammulinksnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVNtQ2wtMWNOaXVUTEtZaGkxc0lBdHUwaTR6VzlTWVN4Y3liZkJiY1lwdzZocXctLWxEY3dNOV9YbjlrVzEteGpwZGZ6R2RIUkdYTXVJdS14NjdBQ3BfSHRPWDlUbzNaZmdGZ1FvV2RvTDJVWk5XOEpTMktjbllDcVpUaC04MEpxbndnQ1JtNWtwSkI2SGFkWnVwT1licndGaGJIZ3ZnS2RQYkU?oc=5\" target=\"_blank\">Bullish Pattern Emerging on Nestl\u00e9 India Limited (NESTLEIND) - Free Stock Market Forecast Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jammulinksnews.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeVNtQ2wtMWNOaXVUTEtZaGkxc0lBdHUwaTR6VzlTWVN4Y3liZkJiY1lwdzZocXctLWxEY3dNOV9YbjlrVzEteGpwZGZ6R2RIUkdYTXVJdS14NjdBQ3BfSHRPWDlUbzNaZmdGZ1FvV2RvTDJVWk5XOEpTMktjbllDcVpUaC04MEpxbndnQ1JtNWtwSkI2SGFkWnVwT1licndGaGJIZ3ZnS2RQYkU?oc=5",
+        "published": "Wed, 23 Jul 2025 03:34:20 GMT",
+        "source": "jammulinksnews.com"
+      },
+      {
+        "title": "Nestl\u00e9 India Limited (NESTLEIND) Hits 52 Week High - Record-breaking capital gains - Autocar Professional",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ25OTEhKSUxzd1Zibmo4OEtyWXV1SGJTWG94RVlROXNvaV9ObF9zUG9NOXVabjBPNXpBVC15RFF6RTZyQ2s1MGdzVEpsZi14aXVjeDAtZVZ2elpsRTV5SEJ4bGtka2VIaUhPMUlsdHAyNjJpaHNzdFk2ZTcyYXVnYnAwTzBCc3pEWXdUTUlHTWYzYVdXMlVQVnJEMjQ?oc=5\" target=\"_blank\">Nestl\u00e9 India Limited (NESTLEIND) Hits 52 Week High - Record-breaking capital gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autocar Professional</font>",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ25OTEhKSUxzd1Zibmo4OEtyWXV1SGJTWG94RVlROXNvaV9ObF9zUG9NOXVabjBPNXpBVC15RFF6RTZyQ2s1MGdzVEpsZi14aXVjeDAtZVZ2elpsRTV5SEJ4bGtka2VIaUhPMUlsdHAyNjJpaHNzdFk2ZTcyYXVnYnAwTzBCc3pEWXdUTUlHTWYzYVdXMlVQVnJEMjQ?oc=5",
+        "published": "Thu, 24 Jul 2025 23:45:40 GMT",
+        "source": "Autocar Professional"
+      }
+    ]
+  }
+}

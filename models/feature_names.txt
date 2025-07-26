@@ -1,0 +1,9 @@
+price
+sma_20
+sma_50
+rsi
+volatility
+volume
+price_sma20_ratio
+price_sma50_ratio
+sma_ratio
